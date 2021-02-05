@@ -130,7 +130,7 @@ genome %s
             bat.write(self.batch)
             bat.write("snapshotDirectory %s\n" % dir_name)
             bat.write(self.get_goto(chr,start, stop) + "\n")
-            bat.write("sort base\ncollapse\nsnapshot %s/%s\n" % (self.fix_name(group_name), png_name))
+            bat.write("sort base\ncollapse\nsnapshot %s\n" % (png_name))
 
         return(str(bat_name))
 
