@@ -1,0 +1,2 @@
+2021-02-05 17:08:47,315 [INFO] Running igv_snapshot_maker/cli.py -i tests/my.yaml
+2021-02-05 17:08:47,316 [INFO] Read tests/my.yaml

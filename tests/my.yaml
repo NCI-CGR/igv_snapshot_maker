@@ -1,0 +1,1795 @@
+- name: ACADL
+  items:
+  - name: 2:211068107:C:A
+    chr: '2'
+    start: 211068106
+    stop: 211068107
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5877_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5913_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5913_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6362_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6362_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6842_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3250_110071_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3341_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_2002_A.bam
+  - name: 2:211068109:GGT:G
+    chr: '2'
+    start: 211068108
+    stop: 211068111
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5877_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5913_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5913_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6362_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6362_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6842_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3250_110071_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3341_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_2002_A.bam
+  - name: 2:211070402:C:G
+    chr: '2'
+    start: 211070401
+    stop: 211070402
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3874_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6493_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6907_1001_A.bam
+  - name: 2:211070497:TA:T
+    chr: '2'
+    start: 211070496
+    stop: 211070498
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6493_1001_A.bam
+- name: AGAP5
+  items:
+  - name: 10:75457410:C:G
+    chr: '10'
+    start: 75457409
+    stop: 75457410
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6212_1001_A.bam
+- name: AGAP6
+  items:
+  - name: 10:51769399:T:TGGCCC
+    chr: '10'
+    start: 51769398
+    stop: 51769399
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6008_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6674_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6699_1001_A.bam
+  - name: 10:51769404:C:CTTTCCCGTGT
+    chr: '10'
+    start: 51769403
+    stop: 51769404
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6008_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6674_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6699_1001_A.bam
+  - name: 10:51769414:G:GC
+    chr: '10'
+    start: 51769413
+    stop: 51769414
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6526_1001_A.bam
+- name: ARSF
+  items:
+  - name: X:3021902:C:T
+    chr: X
+    start: 3021901
+    stop: 3021902
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6397_2002_A.bam
+  - name: X:3030576:G:GGGTCCTAACGAGAAGAGATAATTACAATCAGGCTACCAGAGGAAGCCTTT
+    chr: X
+    start: 3030575
+    stop: 3030576
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5123_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6053_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6129_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6135_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6217_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6519_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6843_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6952_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6952_3007_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2863_1001_A.bam
+- name: C5orf22
+  items:
+  - name: 5:31532534:G:C
+    chr: '5'
+    start: 31532533
+    stop: 31532534
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4094_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4095_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4095_2004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6092_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6092_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6096_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6114_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6119_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6308_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6699_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6704_1001_A.bam
+  - name: 5:31532582:T:C
+    chr: '5'
+    start: 31532581
+    stop: 31532582
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_2003_A.bam
+  - name: 5:31535925:C:G
+    chr: '5'
+    start: 31535924
+    stop: 31535925
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6109_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6109_2002_A.bam
+- name: CASP8
+  items:
+  - name: 2:202122877:GGTTCTCCTCCTTTTATCTTTTGTGTTTTTTTTCAAGCCCTGCTGAATTTGCTAGTCAACTCAACAGGAAGTGAGGCCATGGAGGGAGGCAGAAGAGCCAGGGTGGTTATTGA:G
+    chr: '2'
+    start: 202122876
+    stop: 202122989
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4315_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4315_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5945_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5945_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6027_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6060_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6060_3006_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6146_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6146_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6533_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6650_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_3004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2025_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2960_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4806_1001_A.bam
+  - name: 2:202141586:C:T
+    chr: '2'
+    start: 202141585
+    stop: 202141586
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4093_2010_A.bam
+  - name: 2:202149860:C:G
+    chr: '2'
+    start: 202149859
+    stop: 202149860
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6385_1001_A.bam
+- name: CDC45
+  items:
+  - name: 22:19492985:C:T
+    chr: '22'
+    start: 19492984
+    stop: 19492985
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6006_1001_A.bam
+- name: CRIPAK
+  items:
+  - name: 4:1388508:T:TCCATGTGGAGTGCCCACCTGCTCATGTGC
+    chr: '4'
+    start: 1388507
+    stop: 1388508
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4093_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4093_2010_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4327_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5879_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6030_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6113_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5062_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5062_2001_A.bam
+  - name: 4:1388559:TCA:T
+    chr: '4'
+    start: 1388558
+    stop: 1388561
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6199_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6695_1001_A.bam
+  - name: 4:1388662:GATGCGGAGTGCCCGCCTGCTCACACGTGCCC:G
+    chr: '4'
+    start: 1388661
+    stop: 1388693
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4460_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5946_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5997_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6004_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6051_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6788_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_1109_3008_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5007_1001_A.bam
+  - name: 4:1389125:T:C
+    chr: '4'
+    start: 1389124
+    stop: 1389125
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4094_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1011_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5915_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5915_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5995_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6051_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6109_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6297_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6311_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6396_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6689_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6715_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3749_1001_A.bam
+  - name: 4:1389125:T:TGTGGGGTGCCCGCCTGCTCACACGTGCCCATGTGGGGTGCCCGCCTGCTCACATGTGCCGAC
+    chr: '4'
+    start: 1389124
+    stop: 1389125
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5948_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6108_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6125_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6665_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_1201_1003_A.bam
+  - name: 4:1389130:GGTGCCCGCCTGCTCACATGTGCCGATGTGGA:G
+    chr: '4'
+    start: 1389129
+    stop: 1389161
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6703_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_2002_A.bam
+  - name: 4:1389155:A:ACG
+    chr: '4'
+    start: 1389154
+    stop: 1389155
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3674_3001_A.bam
+  - name: 4:1389156:T:TGGGGTGCCCGCCTGCTCACACGTGCCGAC
+    chr: '4'
+    start: 1389155
+    stop: 1389156
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3674_3001_A.bam
+  - name: 4:1389215:C:T
+    chr: '4'
+    start: 1389214
+    stop: 1389215
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6101_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6101_3001_A.bam
+  - name: 4:1389248:ATGGAGTGCCCGCCTGCTCACACGTGCCATTG:A
+    chr: '4'
+    start: 1389247
+    stop: 1389279
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5871_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5995_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6109_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6109_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6139_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6297_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6311_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6311_1006_C.bam
+  - name: 4:1389290:G:A
+    chr: '4'
+    start: 1389289
+    stop: 1389290
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_2001_A.bam
+  - name: 4:1389354:G:A
+    chr: '4'
+    start: 1389353
+    stop: 1389354
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6519_1001_A.bam
+  - name: 4:1389424:TCA:T
+    chr: '4'
+    start: 1389423
+    stop: 1389426
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6092_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6092_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6117_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6861_1001_A.bam
+- name: CYP2D6
+  items:
+  - name: 22:42523592:G:A
+    chr: '22'
+    start: 42523591
+    stop: 42523592
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6370_1001_A.bam
+  - name: 22:42523633:C:G
+    chr: '22'
+    start: 42523632
+    stop: 42523633
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6542_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6907_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6907_1002_A.bam
+  - name: 22:42523858:T:G
+    chr: '22'
+    start: 42523857
+    stop: 42523858
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6008_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6050_1001_A.bam
+  - name: 22:42524814:A:G
+    chr: '22'
+    start: 42524813
+    stop: 42524814
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4462_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4462_3004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6708_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6715_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6752_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3732_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4129_2002_A.bam
+  - name: 22:42524820:T:TC
+    chr: '22'
+    start: 42524819
+    stop: 42524820
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4462_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4462_3004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6708_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6715_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6752_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3732_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4129_2002_A.bam
+- name: FAM209A
+  items:
+  - name: 20:55099917:A:G
+    chr: '20'
+    start: 55099916
+    stop: 55099917
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6656_1001_A.bam
+  - name: 20:55099973:CAATA:C
+    chr: '20'
+    start: 55099972
+    stop: 55099977
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4092_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4092_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4494_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4494_3004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4495_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5912_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5997_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6005_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6118_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6118_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6129_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6140_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6146_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6157_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6176_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6328_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6562_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6709_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6737_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6760_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6797_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2025_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4695_1001_A.bam
+  - name: 20:55099978:C:CGTGT
+    chr: '20'
+    start: 55099977
+    stop: 55099978
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4092_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4092_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4494_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4494_3004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4495_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5912_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5997_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6005_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6118_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6118_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6129_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6140_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6146_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6157_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6176_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6328_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6562_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6709_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6737_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6760_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6797_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2025_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4695_1001_A.bam
+  - name: 20:55100881:C:T
+    chr: '20'
+    start: 55100880
+    stop: 55100881
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6169_1001_A.bam
+  - name: 20:55101089:C:T
+    chr: '20'
+    start: 55101088
+    stop: 55101089
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6648_1001_A.bam
+- name: FLNA
+  items:
+  - name: X:153581714:G:A
+    chr: X
+    start: 153581713
+    stop: 153581714
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4240_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4495_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6109_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6212_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6648_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6906_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6906_2001_A.bam
+- name: GLA
+  items:
+  - name: X:100653420:C:A
+    chr: X
+    start: 100653419
+    stop: 100653420
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4472_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5946_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5976_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5976_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6496_1001_A.bam
+- name: GNAQ
+  items:
+  - name: 9:80537095:G:T
+    chr: '9'
+    start: 80537094
+    stop: 80537095
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6093_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6100_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6172_1001_A.bam
+- name: GPM6B
+  items:
+  - name: X:13798045:G:T
+    chr: X
+    start: 13798044
+    stop: 13798045
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6199_1001_A.bam
+- name: GPR97
+  items:
+  - name: 16:57707334:T:C
+    chr: '16'
+    start: 57707333
+    stop: 57707334
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5666_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6303_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6533_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6743_1001_A.bam
+  - name: 16:57717984:G:C
+    chr: '16'
+    start: 57717983
+    stop: 57717984
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6113_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6113_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6735_1001_A.bam
+  - name: 16:57718364:C:T
+    chr: '16'
+    start: 57718363
+    stop: 57718364
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2904_1001_A.bam
+  - name: 16:57719607:G:T
+    chr: '16'
+    start: 57719606
+    stop: 57719607
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3456_1001_A.bam
+- name: HLA-A
+  items:
+  - name: 6:29910389:C:A
+    chr: '6'
+    start: 29910388
+    stop: 29910389
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6496_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6498_1001_A.bam
+  - name: 6:29910724:A:AGAGATCTCCAAGAC
+    chr: '6'
+    start: 29910723
+    stop: 29910724
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6276_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6734_1001_A.bam
+  - name: 6:29910728:A:AGATCTCC
+    chr: '6'
+    start: 29910727
+    stop: 29910728
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6397_2002_A.bam
+  - name: 6:29910728:A:AGATCTCCAAGACC
+    chr: '6'
+    start: 29910727
+    stop: 29910728
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4495_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6204_1001_A.bam
+  - name: 6:29910755:C:CTA
+    chr: '6'
+    start: 29910754
+    stop: 29910755
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5123_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5871_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5879_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5927_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5979_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6006_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6052_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6052_2004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6119_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6119_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6126_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6129_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6308_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6328_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6493_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6647_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6669_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6669_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6678_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6704_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2858_1001_A.bam
+  - name: 6:29910760:GGA:G
+    chr: '6'
+    start: 29910759
+    stop: 29910762
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5123_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5871_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5879_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5927_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5979_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6006_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6052_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6052_2004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6119_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6119_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6308_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6328_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6493_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6647_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6669_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6669_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6678_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6704_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2858_1001_A.bam
+  - name: 6:29911077:G:C
+    chr: '6'
+    start: 29911076
+    stop: 29911077
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6035_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6334_1003_A.bam
+- name: HLA-C
+  items:
+  - name: 6:31237115:CT:C
+    chr: '6'
+    start: 31237114
+    stop: 31237116
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_2001_A.bam
+  - name: 6:31239016:G:C
+    chr: '6'
+    start: 31239015
+    stop: 31239016
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3250_110325_A.bam
+  - name: 6:31239072:G:A
+    chr: '6'
+    start: 31239071
+    stop: 31239072
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4756_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5912_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5912_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5996_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5999_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6054_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6100_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6138_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6187_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6276_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6577_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6690_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6715_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3456_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3732_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4542_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4542_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5007_1001_A.bam
+  - name: 6:31239081:C:A
+    chr: '6'
+    start: 31239080
+    stop: 31239081
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6158_1001_A.bam
+- name: HLA-DRB5
+  items:
+  - name: 6:32497910:T:C
+    chr: '6'
+    start: 32497909
+    stop: 32497910
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5915_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5917_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6005_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6054_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6107_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6115_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6146_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6276_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6309_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6362_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6496_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6658_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6788_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6790_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_3004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4695_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5690_1001_A.bam
+- name: KRTAP1-3
+  items:
+  - name: 17:39191009:G:GTCTC
+    chr: '17'
+    start: 39191008
+    stop: 39191009
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6108_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6323_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5041_1004_A.bam
+  - name: 17:39191009:GAGCCGCA:G
+    chr: '17'
+    start: 39191008
+    stop: 39191016
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6679_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6789_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6903_1001_A.bam
+- name: KRTAP10-6
+  items:
+  - name: 21:46011383:G:A
+    chr: '21'
+    start: 46011382
+    stop: 46011383
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6580_1001_A.bam
+  - name: 21:46011414:C:T
+    chr: '21'
+    start: 46011413
+    stop: 46011414
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4476_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4476_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5872_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5872_1005_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5872_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5918_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5926_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5945_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6014_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6203_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6334_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6650_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6685_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6752_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6848_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0928_2006_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0928_4003_A.bam
+- name: KRTAP4-8
+  items:
+  - name: 17:39254152:G:GAGAT
+    chr: '17'
+    start: 39254151
+    stop: 39254152
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6008_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6035_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6135_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6138_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6370_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6695_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6850_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0372_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3250_110360_A.bam
+  - name: 17:39254162:A:AT
+    chr: '17'
+    start: 39254161
+    stop: 39254162
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5921_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6029_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6092_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6136_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6145_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6172_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3741_2001_A.bam
+- name: LILRA2
+  items:
+  - name: 19:55086255:G:A
+    chr: '19'
+    start: 55086254
+    stop: 55086255
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6296_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6681_1001_A.bam
+  - name: 19:55086356:C:CGT
+    chr: '19'
+    start: 55086355
+    stop: 55086356
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6296_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6681_1001_A.bam
+  - name: 19:55086358:TGC:T
+    chr: '19'
+    start: 55086357
+    stop: 55086360
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6296_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6681_1001_A.bam
+  - name: 19:55086950:T:C
+    chr: '19'
+    start: 55086949
+    stop: 55086950
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6399_1002_A.bam
+- name: MAP2K7
+  items:
+  - name: 19:7975224:G:A
+    chr: '19'
+    start: 7975223
+    stop: 7975224
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6795_1001_A.bam
+  - name: 19:7975667:TCTGGGCAAGATGACAGTGGCGGTGAGTGACCAGGCGGGGCTTGCACTGGGCAGGATGACAGAGGCGGTGAGTGACCAGGCGGGGCGTGCA:T
+    chr: '19'
+    start: 7975666
+    stop: 7975757
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5878_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5926_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6003_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6003_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6031_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6152_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6542_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6737_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2017_3005_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4385_1002_A.bam
+- name: OLFML1
+  items:
+  - name: 11:7509517:C:T
+    chr: '11'
+    start: 7509516
+    stop: 7509517
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_2002_A.bam
+  - name: 11:7530763:A:G
+    chr: '11'
+    start: 7530762
+    stop: 7530763
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6107_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6107_3001_A.bam
+  - name: 11:7530973:G:C
+    chr: '11'
+    start: 7530972
+    stop: 7530973
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3875_2011_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5872_1005_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5943_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5949_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5950_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6204_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6311_3013_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6328_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6587_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6736_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5390_1002_A.bam
+  - name: 11:7530973:G:T
+    chr: '11'
+    start: 7530972
+    stop: 7530973
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5920_1001_A.bam
+  - name: 11:7531044:GCTCTGGGCCATCCA:G
+    chr: '11'
+    start: 7531043
+    stop: 7531058
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6123_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6123_1005_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6905_1001_A.bam
+- name: OR2T8
+  items:
+  - name: 1:248084470:C:CG
+    chr: '1'
+    start: 248084469
+    stop: 248084470
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4314_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5980_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5980_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6130_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6311_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6685_1001_A.bam
+- name: OR6K2
+  items:
+  - name: 1:158669770:CAG:C
+    chr: '1'
+    start: 158669769
+    stop: 158669772
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5869_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5877_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5917_1001_A.bam
+  - name: 1:158669774:C:CT
+    chr: '1'
+    start: 158669773
+    stop: 158669774
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5869_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5877_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5917_1001_A.bam
+- name: PABPC1
+  items:
+  - name: 8:101730116:C:CTTTACATGAAACGATGTTA
+    chr: '8'
+    start: 101730115
+    stop: 101730116
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4660_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5041_1001_A.bam
+  - name: 8:101730116:C:CTTTACATGAAACGATGTTACAAAAAG
+    chr: '8'
+    start: 101730115
+    stop: 101730116
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4385_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4542_1001_A.bam
+  - name: 8:101730118:T:A
+    chr: '8'
+    start: 101730117
+    stop: 101730118
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4660_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1003_A.bam
+- name: PAGE2
+  items:
+  - name: X:55116478:T:A
+    chr: X
+    start: 55116477
+    stop: 55116478
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3883_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3883_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3914_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4658_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5947_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6029_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6054_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6533_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6655_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6760_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2851_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2851_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4408_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4408_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4467_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4467_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4467_3002_A.bam
+- name: PLA2G4E
+  items:
+  - name: 15:42276042:A:T
+    chr: '15'
+    start: 42276041
+    stop: 42276042
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6842_1001_A.bam
+  - name: 15:42279477:C:T
+    chr: '15'
+    start: 42279476
+    stop: 42279477
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6043_1001_A.bam
+  - name: 15:42279478:G:A
+    chr: '15'
+    start: 42279477
+    stop: 42279478
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5980_2002_A.bam
+  - name: 15:42281657:C:T
+    chr: '15'
+    start: 42281656
+    stop: 42281657
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2947_1001_A.bam
+  - name: 15:42282388:C:T
+    chr: '15'
+    start: 42282387
+    stop: 42282388
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6457_1001_A.bam
+  - name: 15:42285087:G:C
+    chr: '15'
+    start: 42285086
+    stop: 42285087
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6037_1001_A.bam
+  - name: 15:42285110:A:G
+    chr: '15'
+    start: 42285109
+    stop: 42285110
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2851_1003_A.bam
+  - name: 15:42293414:C:T
+    chr: '15'
+    start: 42293413
+    stop: 42293414
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6677_1002_C.bam
+  - name: 15:42300045:A:AAACAGTC
+    chr: '15'
+    start: 42300044
+    stop: 42300045
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6404_1001_A.bam
+  - name: 15:42302330:G:GC
+    chr: '15'
+    start: 42302329
+    stop: 42302330
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4315_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4494_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5921_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5943_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6050_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6099_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6113_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6141_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6298_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6479_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6665_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6686_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6952_1001_A.bam
+  - name: 15:42302330:G:GCCCCCCCCCCC
+    chr: '15'
+    start: 42302329
+    stop: 42302330
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5976_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5980_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6112_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6145_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6276_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6404_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6743_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6790_1001_A.bam
+  - name: 15:42302332:C:CA
+    chr: '15'
+    start: 42302331
+    stop: 42302332
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6097_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6097_1002_A.bam
+  - name: 15:42302334:C:CA
+    chr: '15'
+    start: 42302333
+    stop: 42302334
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6199_1001_A.bam
+  - name: 15:42302336:C:CCCCG
+    chr: '15'
+    start: 42302335
+    stop: 42302336
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1002_A.bam
+  - name: 15:42302337:C:CCCCG
+    chr: '15'
+    start: 42302336
+    stop: 42302337
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3884_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5945_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5948_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5976_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6321_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6533_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6745_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2858_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3352_2009_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3730_1001_A.bam
+  - name: 15:42302340:C:CCCCCCCG
+    chr: '15'
+    start: 42302339
+    stop: 42302340
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5945_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6003_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6003_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6112_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6120_1001_A.bam
+  - name: 15:42302340:C:CCCCCG
+    chr: '15'
+    start: 42302339
+    stop: 42302340
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6035_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6097_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6126_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6468_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6799_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3732_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4001_3008_A.bam
+  - name: 15:42302340:C:CCCCG
+    chr: '15'
+    start: 42302339
+    stop: 42302340
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4095_2004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4660_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5921_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6093_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6199_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4467_3002_A.bam
+- name: PRSS3
+  items:
+  - name: 9:33795613:C:G
+    chr: '9'
+    start: 33795612
+    stop: 33795613
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6033_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6110_1002_A.bam
+  - name: 9:33796771:G:T
+    chr: '9'
+    start: 33796770
+    stop: 33796771
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6403_1001_A.bam
+  - name: 9:33797928:G:GCT
+    chr: '9'
+    start: 33797927
+    stop: 33797928
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5877_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5980_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6053_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6060_3006_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6401_1009_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6481_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6492_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6519_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6649_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6682_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6849_1001_A.bam
+  - name: 9:33798576:A:G
+    chr: '9'
+    start: 33798575
+    stop: 33798576
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5996_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6108_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6401_1009_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6669_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6689_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6694_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6705_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6719_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6734_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6734_1002_A.bam
+- name: RASSF8
+  items:
+  - name: 12:26217563:G:A
+    chr: '12'
+    start: 26217562
+    stop: 26217563
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6004_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6004_3001_A.bam
+  - name: 12:26217765:TAAAG:T
+    chr: '12'
+    start: 26217764
+    stop: 26217769
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6789_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6789_2001_A.bam
+  - name: 12:26220541:C:T
+    chr: '12'
+    start: 26220540
+    stop: 26220541
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5664_2001_A.bam
+  - name: 12:26220551:A:G
+    chr: '12'
+    start: 26220550
+    stop: 26220551
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2960_1001_A.bam
+- name: RBM23
+  items:
+  - name: 14:23371269:GCA:G
+    chr: '14'
+    start: 23371268
+    stop: 23371271
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6653_1001_A.bam
+  - name: 14:23374540:GTTACCTT:G
+    chr: '14'
+    start: 23374539
+    stop: 23374547
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6797_1001_A.bam
+  - name: 14:23374548:GCCTACAGCAGAGAAAAAGTCCTCCAGATCTCGAGGCCGAATTCGGGCAGCTAACTGCA:G
+    chr: '14'
+    start: 23374547
+    stop: 23374606
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6797_1001_A.bam
+  - name: 14:23375569:C:T
+    chr: '14'
+    start: 23375568
+    stop: 23375569
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6051_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6051_1002_A.bam
+- name: RTFDC1
+  items:
+  - name: 20:55093281:A:T
+    chr: '20'
+    start: 55093280
+    stop: 55093281
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6585_1001_A.bam
+- name: SERPINA1
+  items:
+  - name: 14:94844865:G:A
+    chr: '14'
+    start: 94844864
+    stop: 94844865
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6838_1001_A.bam
+  - name: 14:94844965:C:G
+    chr: '14'
+    start: 94844964
+    stop: 94844965
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6050_1001_A.bam
+  - name: 14:94847286:T:A
+    chr: '14'
+    start: 94847285
+    stop: 94847286
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3883_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3883_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4246_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6146_1001_A.bam
+  - name: 14:94847380:C:G
+    chr: '14'
+    start: 94847379
+    stop: 94847380
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6157_1001_A.bam
+  - name: 14:94847404:T:A
+    chr: '14'
+    start: 94847403
+    stop: 94847404
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6005_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6005_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6005_3001_A.bam
+- name: SFPQ
+  items:
+  - name: 1:35654689:C:A
+    chr: '1'
+    start: 35654688
+    stop: 35654689
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2982_1001_A.bam
+  - name: 1:35656314:C:A
+    chr: '1'
+    start: 35656313
+    stop: 35656314
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5920_1001_A.bam
+  - name: 1:35656950:T:A
+    chr: '1'
+    start: 35656949
+    stop: 35656950
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6058_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6058_3002_A.bam
+- name: SLC25A5
+  items:
+  - name: X:118604477:G:C
+    chr: X
+    start: 118604476
+    stop: 118604477
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3880_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5879_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6027_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6028_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6044_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6112_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6118_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6125_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6233_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6277_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6404_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6649_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6696_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5390_1001_A.bam
+- name: SLC26A10
+  items:
+  - name: 12:58016602:AGCTGCCCAGGATTCTG:A
+    chr: '12'
+    start: 58016601
+    stop: 58016618
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6158_1001_A.bam
+  - name: 12:58016690:G:C
+    chr: '12'
+    start: 58016689
+    stop: 58016690
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6158_1001_A.bam
+  - name: 12:58017860:G:A
+    chr: '12'
+    start: 58017859
+    stop: 58017860
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4185_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5942_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6117_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6117_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6128_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6461_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6684_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6702_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6707_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6709_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6832_1001_A.bam
+  - name: 12:58018668:T:G
+    chr: '12'
+    start: 58018667
+    stop: 58018668
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3881_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4185_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5917_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5942_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6004_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6004_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6102_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6117_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6117_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6128_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6461_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6684_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6702_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6707_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6709_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6832_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6856_2005_A.bam
+  - name: 12:58019202:C:T
+    chr: '12'
+    start: 58019201
+    stop: 58019202
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5870_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5909_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5909_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6012_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6130_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6130_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6141_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6141_3002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6189_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6278_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6303_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6437_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6491_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6519_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6542_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6580_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6676_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6676_3006_A.bam
+  - name: 12:58019236:C:T
+    chr: '12'
+    start: 58019235
+    stop: 58019236
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5920_1001_A.bam
+- name: SLC9A4
+  items:
+  - name: 2:103095298:G:C
+    chr: '2'
+    start: 103095297
+    stop: 103095298
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6177_1001_A.bam
+  - name: 2:103119992:G:T
+    chr: '2'
+    start: 103119991
+    stop: 103119992
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6694_1001_A.bam
+  - name: 2:103120013:G:A
+    chr: '2'
+    start: 103120012
+    stop: 103120013
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6138_1002_A.bam
+- name: TLR1
+  items:
+  - name: 4:38798363:A:G
+    chr: '4'
+    start: 38798362
+    stop: 38798363
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5045_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5045_1003_A.bam
+  - name: 4:38798422:C:G
+    chr: '4'
+    start: 38798421
+    stop: 38798422
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6757_1001_A.bam
+  - name: 4:38798607:A:T
+    chr: '4'
+    start: 38798606
+    stop: 38798607
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4095_2004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3374_1003_A.bam
+  - name: 4:38798777:G:A
+    chr: '4'
+    start: 38798776
+    stop: 38798777
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5921_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5921_2003_A.bam
+  - name: 4:38799075:T:C
+    chr: '4'
+    start: 38799074
+    stop: 38799075
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6668_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6668_1002_A.bam
+  - name: 4:38799315:G:A
+    chr: '4'
+    start: 38799314
+    stop: 38799315
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6116_2002_A.bam
+  - name: 4:38799342:G:A
+    chr: '4'
+    start: 38799341
+    stop: 38799342
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6396_3001_A.bam
+  - name: 4:38799409:G:T
+    chr: '4'
+    start: 38799408
+    stop: 38799409
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6682_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4467_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4467_3001_A.bam
+  - name: 4:38799456:CTG:C
+    chr: '4'
+    start: 38799455
+    stop: 38799458
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_3004_A.bam
+  - name: 4:38799560:G:A
+    chr: '4'
+    start: 38799559
+    stop: 38799560
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6105_1002_A.bam
+  - name: 4:38799955:CT:C
+    chr: '4'
+    start: 38799954
+    stop: 38799956
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6002_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6415_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6656_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6861_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5482_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5482_2001_A.bam
+  - name: 4:38799957:T:A
+    chr: '4'
+    start: 38799956
+    stop: 38799957
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6002_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6415_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6656_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6861_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5482_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5482_2001_A.bam
+- name: TLR6
+  items:
+  - name: 4:38828952:C:T
+    chr: '4'
+    start: 38828951
+    stop: 38828952
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4314_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4314_2002_A.bam
+  - name: 4:38829002:G:A
+    chr: '4'
+    start: 38829001
+    stop: 38829002
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4107_1001_A.bam
+  - name: 4:38829872:A:G
+    chr: '4'
+    start: 38829871
+    stop: 38829872
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6703_1001_A.bam
+- name: TP53BP2
+  items:
+  - name: 1:223985963:C:G
+    chr: '1'
+    start: 223985962
+    stop: 223985963
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3875_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3875_2011_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6006_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6028_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6055_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6060_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6655_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6658_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6674_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6688_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6694_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6696_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6704_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0372_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0372_2002_A.bam
+  - name: 1:223987611:C:T
+    chr: '1'
+    start: 223987610
+    stop: 223987611
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6181_1001_A.bam
+  - name: 1:223991959:G:A
+    chr: '1'
+    start: 223991958
+    stop: 223991959
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3875_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_3875_2011_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6006_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6028_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6055_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6060_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6655_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6658_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6674_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6688_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6694_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6696_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6704_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0372_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0372_2002_A.bam
+- name: TPTE
+  items:
+  - name: 21:10907015:C:T
+    chr: '21'
+    start: 10907014
+    stop: 10907015
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6519_1001_A.bam
+  - name: 21:10908867:G:T
+    chr: '21'
+    start: 10908866
+    stop: 10908867
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_2001_A.bam
+  - name: 21:10908882:T:C
+    chr: '21'
+    start: 10908881
+    stop: 10908882
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6681_1001_A.bam
+  - name: 21:10910400:CTA:C
+    chr: '21'
+    start: 10910399
+    stop: 10910402
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5914_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6056_2004_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6114_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6143_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6328_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6401_1009_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6666_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6743_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4295_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_4806_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5117_1001_A.bam
+  - name: 21:10914438:A:C
+    chr: '21'
+    start: 10914437
+    stop: 10914438
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_0873_1010_A.bam
+  - name: 21:10920091:G:A
+    chr: '21'
+    start: 10920090
+    stop: 10920091
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6038_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6854_3004_A.bam
+  - name: 21:10941954:G:A
+    chr: '21'
+    start: 10941953
+    stop: 10941954
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6648_1001_A.bam
+  - name: 21:10941963:A:C
+    chr: '21'
+    start: 10941962
+    stop: 10941963
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6014_1001_A.bam
+  - name: 21:10941966:A:G
+    chr: '21'
+    start: 10941965
+    stop: 10941966
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4093_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4093_2010_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4659_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5979_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5998_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6003_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6003_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6094_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6094_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6107_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6130_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6130_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6139_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6139_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6144_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6533_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6693_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6717_1001_A.bam
+  - name: 21:10942995:G:A
+    chr: '21'
+    start: 10942994
+    stop: 10942995
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6297_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6446_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6796_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5390_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5390_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5390_1004_A.bam
+  - name: 21:10959790:G:A
+    chr: '21'
+    start: 10959789
+    stop: 10959790
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4494_3006_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6053_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6276_2003_A.bam
+- name: VWA7
+  items:
+  - name: 6:31736938:G:A
+    chr: '6'
+    start: 31736937
+    stop: 31736938
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6751_1001_A.bam
+  - name: 6:31736973:A:AG
+    chr: '6'
+    start: 31736972
+    stop: 31736973
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6526_1001_A.bam
+  - name: 6:31736976:G:GGTAC
+    chr: '6'
+    start: 31736975
+    stop: 31736976
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6526_1001_A.bam
+  - name: 6:31736981:C:T
+    chr: '6'
+    start: 31736980
+    stop: 31736981
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6139_1001_A.bam
+  - name: 6:31737564:G:T
+    chr: '6'
+    start: 31737563
+    stop: 31737564
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6181_1001_A.bam
+  - name: 6:31737818:C:A
+    chr: '6'
+    start: 31737817
+    stop: 31737818
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3741_2001_A.bam
+  - name: 6:31737818:C:G
+    chr: '6'
+    start: 31737817
+    stop: 31737818
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4351_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_4658_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5665_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6110_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6131_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6131_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6131_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6415_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6461_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6461_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6585_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2390_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3250_110307_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3340_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3760_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5482_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_5482_2002_A.bam
+  - name: 6:31737819:C:A
+    chr: '6'
+    start: 31737818
+    stop: 31737819
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6028_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6135_1001_A.bam
+  - name: 6:31737820:C:A
+    chr: '6'
+    start: 31737819
+    stop: 31737820
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6028_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6135_1001_A.bam
+  - name: 6:31743962:G:A
+    chr: '6'
+    start: 31743961
+    stop: 31743962
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2843_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2843_1003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_2843_3001_A.bam
+- name: ZNF484
+  items:
+  - name: 9:95609030:T:C
+    chr: '9'
+    start: 95609029
+    stop: 95609030
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5665_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5665_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5871_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5872_1005_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5912_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_2002_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5922_2003_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6054_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6054_2002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6513_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6519_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6574_1002_A.bam
+  - name: 9:95609586:G:A
+    chr: '9'
+    start: 95609585
+    stop: 95609586
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3741_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3741_2001_A.bam
+  - name: 9:95609588:C:A
+    chr: '9'
+    start: 95609587
+    stop: 95609588
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6856_2005_A.bam
+  - name: 9:95609613:G:A
+    chr: '9'
+    start: 95609612
+    stop: 95609613
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6129_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6176_1001_A.bam
+  - name: 9:95609634:G:C
+    chr: '9'
+    start: 95609633
+    stop: 95609634
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6136_1001_A.bam
+  - name: 9:95609770:A:C
+    chr: '9'
+    start: 95609769
+    stop: 95609770
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6493_1001_A.bam
+  - name: 9:95609965:AT:A
+    chr: '9'
+    start: 95609964
+    stop: 95609966
+    bam_files: /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMUSA/CMMUSA_CMM_3965_1001_A.bam
+- name: ZRANB1
+  items:
+  - name: 10:126673560:GA:G
+    chr: '10'
+    start: 126673559
+    stop: 126673561
+    bam_files:
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5665_2001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5880_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5910_2001_C.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_5999_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6006_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6101_3001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6157_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6297_1002_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6304_1001_A.bam
+    - /DCEG/Projects/Exome/SequencingData/BAM_reformatted/BAM_recalibrated/CMMMed/CMMMed_CMM_6334_3001_A.bam
