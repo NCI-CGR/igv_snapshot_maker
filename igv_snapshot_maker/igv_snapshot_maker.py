@@ -176,7 +176,7 @@ genome %s
             str: goto chr1:35656750-35657150
 
         """
-        rv = "goto %s:%d-%d" % (chr, start+1-self.ext, start+1+self.ext)
+        rv = "goto %s:%d-%d" % (chr, start+1-self.ext, stop+1+self.ext)
         return(rv)
 
 

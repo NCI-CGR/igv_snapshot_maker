@@ -86,7 +86,9 @@ def main():
         except yaml.YAMLError as exc:
             print(exc)
 
-    maker = IGV_Snapshot_Maker()
+    # print("Extension (bp): %d" % args.extend + "\n")
+
+    maker = IGV_Snapshot_Maker(ext = args.extend)
 
     for i in dat:
         
