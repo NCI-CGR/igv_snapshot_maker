@@ -6,7 +6,7 @@ import argparse
 import warnings
 import yaml
 
-from igv_snapshot_maker.igv_snapshot_maker import IGV_Snapshot_Maker
+from igv_snapshot_maker import IGV_Snapshot_Maker
 
 '''
 Ref: https://github.com/stevekm/IGV-snapshot-automator/blob/master/make_IGV_snapshots.py
