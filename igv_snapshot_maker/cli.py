@@ -6,7 +6,7 @@ import argparse
 import warnings
 import yaml
 
-from igv_snapshot_maker import IGV_Snapshot_Maker
+from igv_snapshot_maker.igv_snapshot_maker import IGV_Snapshot_Maker
 
 '''
 Ref: https://github.com/stevekm/IGV-snapshot-automator/blob/master/make_IGV_snapshots.py
@@ -98,6 +98,9 @@ def main():
             maker.load_bams(sp['bam_files'])
             fn = maker.generate_batch_file(i['name'], sp['name'], sp['chr'], sp['start'], sp['stop'] )
             print("Generating the script file %s\n" % fn)
+
+            # run it 
+            maker.call_igv(fn)
 
     return(0)
 

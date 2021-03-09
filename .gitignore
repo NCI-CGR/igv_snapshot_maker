@@ -103,3 +103,10 @@ ENV/
 
 # IDE settings
 .vscode/
+igv_snapshot_maker.code-workspace
+packages_igv_snapshot_maker.png
+igv_snapshot_maker/04.User_Case_Bin.md
+igv_snapshot_maker/classes_igv_snapshot_maker.dot
+igv_snapshot_maker/classes_igv_snapshot_maker.png
+igv_snapshot_maker/packages_igv_snapshot_maker.png
+igv_snapshot_maker/packages_igv_snapshot_maker.dot
