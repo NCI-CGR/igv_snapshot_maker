@@ -5,8 +5,9 @@ import logging
 import argparse
 import warnings
 import yaml
+import pathlib
 
-from igv_snapshot_maker import IGV_Snapshot_Maker
+from igv_snapshot_maker2 import IGV_Snapshot_Maker
 
 '''
 Ref: https://github.com/stevekm/IGV-snapshot-automator/blob/master/make_IGV_snapshots.py
@@ -20,7 +21,15 @@ Output:
         snapshot_name.bat
 '''
 
-
+'''
+cli2.py is a revision of cli.py, due to the change in the yaml format:
++ The major change is to move the bam_files from the items level to an upper level. 
++ There is minor change like "items" to "snapshots". 
++ The according change in the output is to have one master batch script and the individual script for each snapshot.
+  + The customized path folder will be provided from the command-line. 
+  + igv_snapshot_maker2.py is used.
+   
+'''
 
 VERSION="0.1.0-dev"
 
@@ -45,7 +54,11 @@ def parse_args():
 
     parser.add_argument("-g", default = 'hg19', type = str, dest = 'genome', metavar = 'genome', help="Name of the reference genome, Defaults to hg19")
 
-    parser.add_argument("-mem", default = "4000", type = str, dest = 'igv_mem', required=False, metavar = 'IGV memory (MB)', help="Amount of memory to allocate to IGV, in Megabytes (MB)")
+    parser.add_argument("-f", default = 'Mac', type = str, dest = 'filesystem', metavar = 'filesystem', help="The target operating system (Mac or Windows) to run IGV, Defaults to Mac.")
+
+    parser.add_argument("--igv", default = 'igv', type = str, dest = 'igv_cmd',  help="The command to run IGV (at CCAD)")
+
+    parser.add_argument("-m", "--mem", default = "4000", type = str, dest = 'igv_mem', required=False, metavar = 'IGV memory (MB)', help="Amount of memory to allocate to IGV, in Megabytes (MB)")
 
     parser.add_argument("-i", "--input", type = str,  required=True, metavar = 'Input file', help="Input file in YAML format")
 
@@ -90,21 +103,36 @@ def main():
 
     # print("Extension (bp): %d" % args.extend + "\n")
 
-    maker = IGV_Snapshot_Maker(ext = args.extend)
+    maker = IGV_Snapshot_Maker(ext = args.extend, refgenome=args.genome , output_dir=args.output, igv_cmd=args.igv_cmd)
+    maker2 = IGV_Snapshot_Maker(ext = args.extend, refgenome=args.genome , output_dir=args.output, igv_cmd=args.igv_cmd)
 
     for i in dat:
         
-        # group_name = i['name']
-        items = i['items']
+        group_name = i['name']
+        items = i['snapshots']
+        maker.reset_batch() # reset the genome file
+
+        maker.load_bams(sp['bam_files'])
+        master_bat_fn = maker.create_batch_file(group_name, group_name)
+
+        
 
         for sp in items: 
-            maker.reset_batch()
-            maker.load_bams(sp['bam_files'])
-            fn = maker.generate_batch_file(i['name'], sp['name'], sp['chr'], sp['start'], sp['stop'] )
-            print("Generating the script file %s\n" % fn)
+            maker2.reset_batch()
+            maker2.load_bams(sp['bam_files'], target_os=args.filesystem)
+            
 
-            # run it 
-            maker.call_igv(fn)
+            fn = maker2.create_batch_file(i['name'], sp['name'] )
+
+            maker.goto(sp['name'], sp['chr'], sp['start'], sp['stop'], snapshot=True)
+            maker2.goto(sp['name'], sp['chr'], sp['start'], sp['stop'], snapshot=False)
+
+            print("Generating the script file %s\n" % fn)
+            maker2.close_batch_file(exit=False)
+
+        # run the master script
+        maker.close_batch_file(exit=True) 
+        maker.call_igv(master_bat_fn)
 
     return(0)
 

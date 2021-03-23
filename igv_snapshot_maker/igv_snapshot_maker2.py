@@ -1,5 +1,35 @@
 """Main module."""
 import os
+from pathlib import Path, PureWindowsPath
+
+def update_dir(path, target_os="Mac"):
+    """Update the file path
+    
+    Change T drive path to the right mounting path under the OS system. E.g.:
+    CCAD: /DCEG/Scimentis/DNM/data/BATCH2_b38
+    Mac: /Volumes/ifs/DCEG/Scimentis/DNM/data/BATCH2_b38
+    Windows: T:\DCEG\Scimentis\DNM\data\BATCH2_b38
+
+    Args:
+        path ([type]): [description]
+        to (str, optional): [description]. Defaults to "Mac". The other optionis "Windows".
+
+    """
+    parts = list(Path(path).parts)
+
+    rv = None
+
+    if target_os == "Mac": 
+        parts[0]='/Volumes/ifs/' + parts[0]
+        rv = str(Path(*parts))
+    elif target_os == "Windows":
+        parts[0]='T:\\' + parts[0]
+        rv= PureWindowsPath(Path(*parts))
+    else:
+        return(path) # no chagne;
+
+    return str(rv)
+    
 
 def subprocess_cmd(command):
     '''
@@ -81,7 +111,7 @@ genome %s
 """ % (self.refgenome)
         
 
-    def load_bams(self, bam_files):
+    def load_bams(self, bam_files, target_os=None):
         """Add bam files
 
         Append load bam file statements to the IGV batch script 
@@ -90,53 +120,36 @@ genome %s
             bam_files (list): list of bam file names
 
         """
-        out = ["load " + f for f in bam_files]
+        out = ["load " + update_dir(f, target_os=target_os) for f in bam_files]
+
         self.batch += "\n".join(out) + "\n"
 
-    def generate_batch_file(self, group_name, name, chr, start, stop):
-        """Generate snapshot script {name}.bat and {name}.png under the folder group_name
-
-        Add "go to the regions and take the snapshot" to the batch script save it to the 
-        folder {group_name}. Create the folder if it does not exist.
-
-        Save the batch script to the folder with the name {group_name}/{group_name}_{name}.bat
-
-        snapshotDirectory IGV_Snapshots
-        goto chr1:35656750-35657150
-        sort base
-        collapse
-        snapshot 1_35656950_T_A.png
-
-        Args:
-            group_name (str): group name as folder
-            name (str): name of the variant
-            chr (str): chromosome
-            start (int): start position (0-based)
-            stop (int): stop position (0-based)
-
-        Returns: 
-            str: the batch file name
-
-        """
+    def create_batch_file(self, group_name, name): 
         dir_name = os.path.abspath(os.path.join(self.output_dir, self.fix_name(group_name)) )
         mkdir_p(dir_name)
 
         bat_name = os.path.join(dir_name, self.fix_name(name) + ".bat" )
-        png_name = self.fix_name(name) + ".png"
-
-        # Write script to the file
-        print("Write to file: %s\n" % bat_name)
-        with open(bat_name, "w") as bat:
-            bat.write(self.batch)
-            bat.write("snapshotDirectory %s\n" % dir_name)
-            bat.write(self.get_goto(chr,start, stop) + "\n")
-            bat.write("sort base\ncollapse\nsnapshot %s\n" % (png_name))
-            bat.write("exit\n")
-
+        self.bat = open(bat_name, "w")
+        self.bat.write(self.batch)
+        self.bat.write("snapshotDirectory %s\n" % dir_name)
         return(str(bat_name))
 
-        # Run the script to generate the png file at the same folder
-        # xvfb-run --auto-servernum --server-args="-screen 0 3200x2400x24" igv -b new.sc
+    def close_batch_file(self, exit=True):
+        if exit: 
+            self.bat.write("exit\n")
+
+        self.bat.close()
+
+    def goto(self, name, chr, start, stop, snapshot=True):
+        
+        png_name = self.fix_name(name) + ".png"
+
+        self.bat.write(self.get_goto(chr,start, stop) + "\n")
+        self.bat.write("sort base\ncollapse\n")
+
+        if snapshot:
+            self.bat.write("snapshot %s\n" % (png_name))
+            
 
     def set_xvfb_cmd(self, xvfb_cmd ):
         """Set up the xvfb command to run IGV
