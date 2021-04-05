@@ -1,8 +1,10 @@
 """Main module."""
 import os
+import logging
 from pathlib import Path, PureWindowsPath
+import re
 
-def update_dir(path, target_os="Mac"):
+def update_dir(path, target_os="Mac", orig_prefix=None, new_prefix=None):
     """Update the file path
     
     Change T drive path to the right mounting path under the OS system. E.g.:
@@ -10,23 +12,34 @@ def update_dir(path, target_os="Mac"):
     Mac: /Volumes/ifs/DCEG/Scimentis/DNM/data/BATCH2_b38
     Windows: T:\DCEG\Scimentis\DNM\data\BATCH2_b38
 
+    BioWulf: /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM
+    Mac: /Volumes/DCEG_pRCC_SV/EAGLE_Kidney_BAM
     Args:
         path ([type]): [description]
         to (str, optional): [description]. Defaults to "Mac". The other optionis "Windows".
 
     """
-    parts = list(Path(path).parts)
+    # parts = list(Path(path).parts)
 
+    # rv = None
+
+    # if target_os == "Mac": 
+    #     parts[0]='/Volumes/ifs/' + parts[0]
+    #     rv = str(Path(*parts))
+    # elif target_os == "Windows":
+    #     parts[0]='T:\\' + parts[0]
+    #     rv= PureWindowsPath(Path(*parts))
+    # else:
+    #     return(path) # no chagne;
+    if target_os is None:
+        return(path) #no change
+
+    new_path = re.sub(orig_prefix, new_prefix, path)
     rv = None
-
     if target_os == "Mac": 
-        parts[0]='/Volumes/ifs/' + parts[0]
-        rv = str(Path(*parts))
-    elif target_os == "Windows":
-        parts[0]='T:\\' + parts[0]
-        rv= PureWindowsPath(Path(*parts))
-    else:
-        return(path) # no chagne;
+        rv= str(Path(new_path))
+    else: 
+        rv=PureWindowsPath(Path(new_path))
 
     return str(rv)
     
@@ -38,8 +51,8 @@ def subprocess_cmd(command):
     '''
     import subprocess as sp
     process = sp.Popen(command,stdout=sp.PIPE, shell=True)
-    proc_stdout = process.communicate()[0].strip()
-    print(proc_stdout)
+    proc_stdout = process.communicate()[0].decode('ascii')
+    logging.info(proc_stdout)
 
 def mkdir_p(path, return_path=False):
     '''
@@ -87,7 +100,7 @@ class IGV_Snapshot_Maker:
     # ext=100 
     # output_dir = "IGV_Snapshots"
 
-    def __init__(self, refgenome="hg19", ext=100, output_dir="IGV_Snapshots", igv_cmd="igv"):
+    def __init__(self, refgenome="hg19", ext=100, output_dir="IGV_Snapshots", igv_cmd="igv", config=None):
         """Constructur
 
         Args:
@@ -96,6 +109,12 @@ class IGV_Snapshot_Maker:
             output_dir (str, optional): output directory. Defaults to "IGV_Snapshots".
             igv_cmd (str, optional): the command to run IGV. Defaults to "/Users/zhuw10/opt/miniconda3/bin/igv".
         """
+        self.track_setting =  "sort base\ncollapse\n"
+
+        if config is not None:
+            # Note config has lower priority here so the only setting passed is track_setting for the time being.
+            self.load_config(config);
+
         self.refgenome = refgenome
         self.ext = ext
         self.output_dir = output_dir
@@ -104,6 +123,11 @@ class IGV_Snapshot_Maker:
         self.xvfb_cmd = 'xvfb-run --auto-servernum --server-args="-screen 0 3200x2400x24" %s -b ' % igv_cmd
         self.reset_batch()
 
+
+    def load_config(self, config):
+        for i in config:
+            setattr(self, i, config[i])
+
     def reset_batch(self):
         self.batch="""\
 new
@@ -111,7 +135,7 @@ genome %s
 """ % (self.refgenome)
         
 
-    def load_bams(self, bam_files, target_os=None):
+    def load_bams(self, bam_files, target_os=None, orig_prefix=None, new_prefix=None):
         """Add bam files
 
         Append load bam file statements to the IGV batch script 
@@ -120,17 +144,21 @@ genome %s
             bam_files (list): list of bam file names
 
         """
-        out = ["load " + update_dir(f, target_os=target_os) for f in bam_files]
+        out = ["load " + update_dir(f, target_os=target_os, orig_prefix=orig_prefix, new_prefix=new_prefix) for f in bam_files]
 
-        self.batch += "\n".join(out) + "\n"
+        self.batch += "\n".join(out) + "\n" 
+        self.batch += self.track_setting + "\n" # track setting has no effect before bam loadings
 
     def create_batch_file(self, group_name, name): 
         dir_name = os.path.abspath(os.path.join(self.output_dir, self.fix_name(group_name)) )
         mkdir_p(dir_name)
 
+        # self.dir_name = dir_name
+
         bat_name = os.path.join(dir_name, self.fix_name(name) + ".bat" )
         self.bat = open(bat_name, "w")
         self.bat.write(self.batch)
+        
         self.bat.write("snapshotDirectory %s\n" % dir_name)
         return(str(bat_name))
 
@@ -140,14 +168,15 @@ genome %s
 
         self.bat.close()
 
-    def goto(self, name, chr, start, stop, snapshot=True):
+    def goto(self, name, chr, start, stop, snapshot=True, ext=None):
         
-        png_name = self.fix_name(name) + ".png"
-
-        self.bat.write(self.get_goto(chr,start, stop) + "\n")
-        self.bat.write("sort base\ncollapse\n")
+        # add region of interest: region chr4 113282405 113312235 SV1
+        self.bat.write("region %s %s %s %s\n" % (chr, start, stop, name))
+        self.bat.write(self.get_goto(chr,start, stop, ext) + "\n")
+        # self.bat.write(self.track_setting)
 
         if snapshot:
+            png_name = self.fix_name(name) + ".png"
             self.bat.write("snapshot %s\n" % (png_name))
             
 
@@ -176,7 +205,7 @@ genome %s
 
 
 
-    def get_goto(self, chr, start, stop): 
+    def get_goto(self, chr, start, stop, ext=None): 
         """ goto chr1:35656750-35657150
 
         The target regions is cenetered on start+1 (1-based), [start+1-ext, start+1+ext]. stop is not used for the time being
@@ -187,10 +216,14 @@ genome %s
             stop (int): stop position
 
         Returns:
-            str: goto chr1:35656750-35657150
+            str: goto chr1:356q56750-35657150
 
         """
-        rv = "goto %s:%d-%d" % (chr, start+1-self.ext, stop+1+self.ext)
+        
+        if ext is None:
+            ext = self.ext
+
+        rv = "goto %s:%d-%d" % (chr, start-ext, stop+ext)
         return(rv)
 
 
