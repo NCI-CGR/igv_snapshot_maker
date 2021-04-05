@@ -168,7 +168,7 @@ genome %s
 
         self.bat.close()
 
-    def goto(self, name, chr, start, stop, snapshot=True, ext=None):
+    def goto(self, name, chr, start, stop, snapshot=True, ext=None, ROI_only=False):
         
         # add region of interest: region chr4 113282405 113312235 SV1
 
@@ -176,8 +176,12 @@ genome %s
         x = re.search('^chr', chr)
         if x is None:
             chr2='chr'+chr # add prefix chr as region not shown otherwise
-            
-        self.bat.write("region %s %s %s %s\n" % (chr, start, stop, name))
+
+        self.bat.write("region %s %s %s %s\n" % (chr2, start, stop, name))
+
+        if ROI_only:
+            return
+        
         self.bat.write(self.get_goto(chr,start, stop, ext) + "\n")
         # self.bat.write(self.track_setting)
 

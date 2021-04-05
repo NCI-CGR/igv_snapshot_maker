@@ -125,6 +125,9 @@ def main():
     maker = IGV_Snapshot_Maker(ext = args.extend, refgenome=args.genome , output_dir=args.output, igv_cmd=args.igv_cmd, config=config)
     maker2 = IGV_Snapshot_Maker(ext = args.extend, refgenome=args.genome , output_dir=args.output, igv_cmd=args.igv_cmd, config=config)
 
+    # maker3 is for the curation, to replace maker2 completely
+    maker3 = IGV_Snapshot_Maker(ext = args.extend, refgenome=args.genome , output_dir=args.output, igv_cmd=args.igv_cmd, config=config)
+
     for i in dat:
         
         group_name = i['name']
@@ -134,6 +137,10 @@ def main():
         maker.load_bams(i['bam_files'])
         master_bat_fn = maker.create_batch_file(group_name, group_name)
 
+        maker3.reset_batch() # reset the genome file
+        maker3.load_bams(i['bam_files'], target_os=target_os, orig_prefix=orig_prefix, new_prefix=new_prefix)
+        
+        master_bat_fn3 = maker3.create_batch_file(group_name, group_name+'_ROIs')
         
 
         for sp in items: 
@@ -146,11 +153,14 @@ def main():
             maker.goto(sp['name'], sp['chr'], sp['start'], sp['stop'], ext=sp.get('ext'), snapshot=True)
             maker2.goto(sp['name'], sp['chr'], sp['start'], sp['stop'], ext=sp.get('ext'), snapshot=False)
 
+            maker3.goto(sp['name'], sp['chr'], sp['start'], sp['stop'], ext=sp.get('ext'), ROI_only=True)
+
             logging.info("Generating the script file %s\n" % fn)
             maker2.close_batch_file(exit=False)
 
         # run the master script
         maker.close_batch_file(exit=True) 
+        maker3.close_batch_file(exit=False)
 
         if not args.norun:
             maker.call_igv(master_bat_fn)
