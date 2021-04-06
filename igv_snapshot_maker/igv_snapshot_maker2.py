@@ -49,10 +49,16 @@ def subprocess_cmd(command):
     Runs a terminal command with stdout piping enabled
     https://github.com/stevekm/IGV-snapshot-automator/blob/master/make_IGV_snapshots.py
     '''
+    
+    logging.info("Command: "+command+"\n")
     import subprocess as sp
-    process = sp.Popen(command,stdout=sp.PIPE, stderr=sp.PIPE,shell=True)
-    proc_stdout = process.communicate()[0].decode('ascii')
-    logging.info(proc_stdout)
+    import shlex
+
+    process = sp.run(shlex.split(command),stdout=sp.PIPE, stderr=sp.STDOUT,shell=False)
+    # proc_stdout = process.communicate()[0].decode('ascii')
+
+    logging.info(process.stdout.decode('ascii'))
+    
 
 def mkdir_p(path, return_path=False):
     '''
