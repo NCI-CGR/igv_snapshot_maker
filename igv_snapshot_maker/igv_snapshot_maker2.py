@@ -50,7 +50,7 @@ def subprocess_cmd(command):
     https://github.com/stevekm/IGV-snapshot-automator/blob/master/make_IGV_snapshots.py
     '''
     import subprocess as sp
-    process = sp.Popen(command,stdout=sp.PIPE, shell=True)
+    process = sp.Popen(command,stdout=sp.PIPE, stderr=sp.PIPE,shell=True)
     proc_stdout = process.communicate()[0].decode('ascii')
     logging.info(proc_stdout)
 
