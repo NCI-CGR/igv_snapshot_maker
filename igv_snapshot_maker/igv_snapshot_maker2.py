@@ -138,6 +138,7 @@ class IGV_Snapshot_Maker:
         self.batch="""\
 new
 genome %s
+maxPanelHeight 2000
 """ % (self.refgenome)
         
 
