@@ -1,0 +1,10 @@
+---
+refgenome: hg19
+track_setting: |
+  viewaspairs
+  collapse
+  colorBy UNEXPECTED_PAIR
+  group PAIR_ORIENTATION
+  sort insertsize
+snapshot_dir: IGV_snapshots
+

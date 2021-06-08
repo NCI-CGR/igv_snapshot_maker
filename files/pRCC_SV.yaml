@@ -1,0 +1,4738 @@
+---
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0402.bam
+  name: cdRCC_1929_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00035_BP1
+      start: 104423883
+      stop: 104423984
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00035_BP2
+      start: 33776273
+      stop: 33776374
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00038_BP1
+      start: 104436634
+      stop: 104436735
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00038_BP2
+      start: 33541220
+      stop: 33541321
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00042_BP1
+      start: 104437702
+      stop: 104437803
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00042_BP2
+      start: 33536920
+      stop: 33537021
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00045_BP1
+      start: 104437886
+      stop: 104437987
+    -
+      chr: '16'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00045_BP2
+      start: 24552656
+      stop: 24552757
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00046_BP1
+      start: 104469844
+      stop: 104469945
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00046_BP2
+      start: 24985215
+      stop: 24985316
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00059_BP1
+      start: 111567165
+      stop: 111567266
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00059_BP2
+      start: 33364457
+      stop: 33364558
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00063_BP1
+      start: 115460663
+      stop: 115460764
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00063_BP2
+      start: 36481665
+      stop: 36481766
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00065_BP1
+      start: 116494288
+      stop: 116494389
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00065_BP2
+      start: 33045969
+      stop: 33046070
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00069_BP1
+      start: 117162484
+      stop: 117162585
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00069_BP2
+      start: 33793349
+      stop: 33793450
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00072_BP1
+      start: 117196338
+      stop: 117196439
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00072_BP2
+      start: 29986783
+      stop: 29986884
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00075_BP1
+      start: 117212771
+      stop: 117212872
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00075_BP2
+      start: 32337981
+      stop: 32338082
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00079_BP1
+      start: 117945956
+      stop: 117946057
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00079_BP2
+      start: 29213578
+      stop: 29213679
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00082_BP1
+      start: 118184410
+      stop: 118184511
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00082_BP2
+      start: 29039719
+      stop: 29039820
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00086_BP1
+      start: 118356943
+      stop: 118357044
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00086_BP2
+      start: 24036691
+      stop: 24036792
+    -
+      chr: '4'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00114_BP1
+      start: 604300
+      stop: 604401
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00114_BP2
+      start: 12887506
+      stop: 12887607
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00178_BP1
+      start: 30575534
+      stop: 30575635
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00178_BP2
+      start: 111559078
+      stop: 111559179
+    -
+      chr: '11'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00248_BP1
+      start: 83182774
+      stop: 83182875
+    -
+      chr: '12'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00248_BP2
+      start: 113956003
+      stop: 113956104
+    -
+      chr: '11'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00254_BP1
+      start: 101578891
+      stop: 101578992
+    -
+      chr: '4'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00254_BP2
+      start: 41970979
+      stop: 41971080
+    -
+      chr: '17'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00309_BP1
+      start: 79177228
+      stop: 79177329
+    -
+      chr: '22'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00309_BP2
+      start: 17555747
+      stop: 17555848
+    -
+      chr: '17'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00313_BP1
+      start: 79177251
+      stop: 79177352
+    -
+      chr: '19'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00313_BP2
+      start: 11482295
+      stop: 11482396
+    -
+      chr: X
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00028_BP1
+      start: 32314736
+      stop: 32314736
+    -
+      chr: X
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00028_BP2
+      start: 32324559
+      stop: 32324559
+    -
+      chr: X
+      ext: 1637
+      name: cdRCC_1929_03_T01_INTRA_SV00028_overview
+      start: 32314736
+      stop: 32324559
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00057_BP1
+      start: 104006159
+      stop: 104006159
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00057_BP2
+      start: 118518710
+      stop: 118518710
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00061_BP1
+      start: 104023581
+      stop: 104023581
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00061_BP2
+      start: 111375753
+      stop: 111375753
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00064_BP1
+      start: 111372543
+      stop: 111372543
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00064_BP2
+      start: 115498022
+      stop: 115498022
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00070_BP1
+      start: 111558244
+      stop: 111558244
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00070_BP2
+      start: 115942119
+      stop: 115942119
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00073_BP1
+      start: 111560207
+      stop: 111560207
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00073_BP2
+      start: 118962757
+      stop: 118962757
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00082_BP1
+      start: 115943584
+      stop: 115943584
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00082_BP2
+      start: 116396003
+      stop: 116396003
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00085_BP1
+      start: 116665786
+      stop: 116665786
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00085_BP2
+      start: 117214751
+      stop: 117214751
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00090_BP1
+      start: 116667051
+      stop: 116667051
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00090_BP2
+      start: 117560634
+      stop: 117560634
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00092_BP1
+      start: 117238616
+      stop: 117238616
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00092_BP2
+      start: 118356213
+      stop: 118356213
+    -
+      chr: '2'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00118_BP1
+      start: 16407449
+      stop: 16407449
+    -
+      chr: '2'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00118_BP2
+      start: 16407722
+      stop: 16407722
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00118_overview
+      start: 16407449
+      stop: 16407722
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00146_BP1
+      start: 4742680
+      stop: 4742680
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00146_BP2
+      start: 4808931
+      stop: 4808931
+    -
+      chr: '3'
+      ext: 11042
+      name: cdRCC_1929_03_T01_INTRA_SV00146_overview
+      start: 4742680
+      stop: 4808931
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00151_BP1
+      start: 8398186
+      stop: 8398186
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00151_BP2
+      start: 157835975
+      stop: 157835975
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00154_BP1
+      start: 10824066
+      stop: 10824066
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00154_BP2
+      start: 158069897
+      stop: 158069897
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00159_BP1
+      start: 48122399
+      stop: 48122399
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00159_BP2
+      start: 123000316
+      stop: 123000316
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00163_BP1
+      start: 49545814
+      stop: 49545814
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00163_BP2
+      start: 190400685
+      stop: 190400685
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00167_BP1
+      start: 53689439
+      stop: 53689439
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00167_BP2
+      start: 158073056
+      stop: 158073056
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00170_BP1
+      start: 55269886
+      stop: 55269886
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00170_BP2
+      start: 121087876
+      stop: 121087876
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00175_BP1
+      start: 77773337
+      stop: 77773337
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00175_BP2
+      start: 77774930
+      stop: 77774930
+    -
+      chr: '3'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00175_overview
+      start: 77773337
+      stop: 77774930
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00184_BP1
+      start: 116944973
+      stop: 116944973
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00184_BP2
+      start: 117165813
+      stop: 117165813
+    -
+      chr: '3'
+      ext: 36806
+      name: cdRCC_1929_03_T01_INTRA_SV00184_overview
+      start: 116944973
+      stop: 117165813
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00186_BP1
+      start: 124528992
+      stop: 124528992
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00186_BP2
+      start: 126142001
+      stop: 126142001
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00195_BP1
+      start: 158077187
+      stop: 158077187
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00195_BP2
+      start: 190073802
+      stop: 190073802
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00197_BP1
+      start: 159645841
+      stop: 159645841
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00197_BP2
+      start: 173693449
+      stop: 173693449
+    -
+      chr: '6'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00251_BP1
+      start: 102266919
+      stop: 102266919
+    -
+      chr: '6'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00251_BP2
+      start: 102280140
+      stop: 102280140
+    -
+      chr: '6'
+      ext: 2203
+      name: cdRCC_1929_03_T01_INTRA_SV00251_overview
+      start: 102266919
+      stop: 102280140
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00299_BP1
+      start: 24042740
+      stop: 24042740
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00299_BP2
+      start: 24120563
+      stop: 24120563
+    -
+      chr: '8'
+      ext: 12970
+      name: cdRCC_1929_03_T01_INTRA_SV00299_overview
+      start: 24042740
+      stop: 24120563
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00304_BP1
+      start: 24066487
+      stop: 24066487
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00304_BP2
+      start: 29199669
+      stop: 29199669
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00309_BP1
+      start: 24841997
+      stop: 24841997
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00309_BP2
+      start: 33844764
+      stop: 33844764
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00311_BP1
+      start: 28220939
+      stop: 28220939
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00311_BP2
+      start: 32664013
+      stop: 32664013
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00315_BP1
+      start: 28334478
+      stop: 28334478
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00315_BP2
+      start: 29229205
+      stop: 29229205
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00319_BP1
+      start: 29981108
+      stop: 29981108
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00319_BP2
+      start: 33039446
+      stop: 33039446
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00332_BP1
+      start: 32628417
+      stop: 32628417
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00332_BP2
+      start: 36451120
+      stop: 36451120
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00349_BP1
+      start: 12423513
+      stop: 12423513
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00349_BP2
+      start: 12459506
+      stop: 12459506
+    -
+      chr: '9'
+      ext: 5999
+      name: cdRCC_1929_03_T01_INTRA_SV00349_overview
+      start: 12423513
+      stop: 12459506
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00355_BP1
+      start: 21868403
+      stop: 21868403
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00355_BP2
+      start: 21868542
+      stop: 21868542
+    -
+      chr: '9'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00355_overview
+      start: 21868403
+      stop: 21868542
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00359_BP1
+      start: 21868407
+      stop: 21868407
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00359_BP2
+      start: 21868546
+      stop: 21868546
+    -
+      chr: '9'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00359_overview
+      start: 21868407
+      stop: 21868546
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00369_BP1
+      start: 21880656
+      stop: 21880656
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00369_BP2
+      start: 21896890
+      stop: 21896890
+    -
+      chr: '9'
+      ext: 2705
+      name: cdRCC_1929_03_T01_INTRA_SV00369_overview
+      start: 21880656
+      stop: 21896890
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00377_BP1
+      start: 21910489
+      stop: 21910489
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00377_BP2
+      start: 23071187
+      stop: 23071187
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00383_BP1
+      start: 23108315
+      stop: 23108315
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00383_BP2
+      start: 26224300
+      stop: 26224300
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00389_BP1
+      start: 24930578
+      stop: 24930578
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00389_BP2
+      start: 26227995
+      stop: 26227995
+    -
+      chr: '12'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00423_BP1
+      start: 29715059
+      stop: 29715059
+    -
+      chr: '12'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00423_BP2
+      start: 29751115
+      stop: 29751115
+    -
+      chr: '12'
+      ext: 6009
+      name: cdRCC_1929_03_T01_INTRA_SV00423_overview
+      start: 29715059
+      stop: 29751115
+    -
+      chr: '12'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00437_BP1
+      start: 84983105
+      stop: 84983105
+    -
+      chr: '12'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00437_BP2
+      start: 84985313
+      stop: 84985313
+    -
+      chr: '12'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00437_overview
+      start: 84983105
+      stop: 84985313
+    -
+      chr: '17'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00480_BP1
+      start: 17017726
+      stop: 17017726
+    -
+      chr: '17'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00480_BP2
+      start: 17020031
+      stop: 17020031
+    -
+      chr: '17'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00480_overview
+      start: 17017726
+      stop: 17020031
+    -
+      chr: '20'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00513_BP1
+      start: 40910322
+      stop: 40910322
+    -
+      chr: '20'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTRA_SV00513_BP2
+      start: 40927922
+      stop: 40927922
+    -
+      chr: '20'
+      ext: 2933
+      name: cdRCC_1929_03_T01_INTRA_SV00513_overview
+      start: 40910322
+      stop: 40927922
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7006_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4017_0401.bam
+  name: pRCC1_1654_01_T01
+  snapshots:
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC1_1654_01_T01_INTRA_SV00060_BP1
+      start: 136376293
+      stop: 136376293
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC1_1654_01_T01_INTRA_SV00060_BP2
+      start: 136377094
+      stop: 136377094
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC1_1654_01_T01_INTRA_SV00060_overview
+      start: 136376293
+      stop: 136377094
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0402.bam
+  name: pRCC1_1416_04_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC1_1416_04_T01_INTRA_SV00049_BP1
+      start: 169101195
+      stop: 169101195
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC1_1416_04_T01_INTRA_SV00049_BP2
+      start: 169559946
+      stop: 169559946
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0402.bam
+  name: pRCC2_1552_03_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00092_BP1
+      start: 58337397
+      stop: 58337498
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00092_BP2
+      start: 104016663
+      stop: 104016764
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00097_BP1
+      start: 58362613
+      stop: 58362714
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00097_BP2
+      start: 105577714
+      stop: 105577815
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00101_BP1
+      start: 58388302
+      stop: 58388403
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00101_BP2
+      start: 102533085
+      stop: 102533186
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00104_BP1
+      start: 58948607
+      stop: 58948708
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00104_BP2
+      start: 102541055
+      stop: 102541156
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00112_BP1
+      start: 60041245
+      stop: 60041346
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00112_BP2
+      start: 98479102
+      stop: 98479203
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00116_BP1
+      start: 66302106
+      stop: 66302207
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTER_SV00116_BP2
+      start: 103640403
+      stop: 103640504
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00101_BP1
+      start: 27915108
+      stop: 27915108
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00101_BP2
+      start: 27935623
+      stop: 27935623
+    -
+      chr: '2'
+      ext: 3419
+      name: pRCC2_1552_03_T01_INTRA_SV00101_overview
+      start: 27915108
+      stop: 27935623
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00142_BP1
+      start: 58338878
+      stop: 58338878
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00142_BP2
+      start: 69449451
+      stop: 69449451
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00145_BP1
+      start: 58339707
+      stop: 58339707
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00145_BP2
+      start: 58948035
+      stop: 58948035
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00148_BP1
+      start: 58360370
+      stop: 58360370
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00148_BP2
+      start: 66520568
+      stop: 66520568
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00151_BP1
+      start: 58360405
+      stop: 58360405
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00151_BP2
+      start: 67141563
+      stop: 67141563
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00201_BP1
+      start: 98489769
+      stop: 98489769
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00201_BP2
+      start: 106197262
+      stop: 106197262
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00203_BP1
+      start: 99299226
+      stop: 99299226
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00203_BP2
+      start: 104552137
+      stop: 104552137
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00308_BP1
+      start: 126756027
+      stop: 126756027
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00308_BP2
+      start: 126757196
+      stop: 126757196
+    -
+      chr: '10'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00308_overview
+      start: 126756027
+      stop: 126757196
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00386_BP1
+      start: 6599042
+      stop: 6599042
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1552_03_T01_INTRA_SV00386_BP2
+      start: 6890968
+      stop: 6890968
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4021_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4021_0401.bam
+  name: pRCC2_1298_01_T01
+  snapshots:
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTER_SV00079_BP1
+      start: 51348862
+      stop: 51348963
+    -
+      chr: GL000232.1
+      ext: 200
+      name: pRCC2_1298_01_T01_INTER_SV00079_BP2
+      start: 3833
+      stop: 3934
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTER_SV00250_BP1
+      start: 49610834
+      stop: 49610935
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTER_SV00250_BP2
+      start: 1295505
+      stop: 1295606
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00090_BP1
+      start: 292951
+      stop: 292951
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00090_BP2
+      start: 421889
+      stop: 421889
+    -
+      chr: '2'
+      ext: 21489
+      name: pRCC2_1298_01_T01_INTRA_SV00090_overview
+      start: 292951
+      stop: 421889
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00138_BP1
+      start: 174630000
+      stop: 174630000
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00138_BP2
+      start: 174800573
+      stop: 174800573
+    -
+      chr: '3'
+      ext: 28429
+      name: pRCC2_1298_01_T01_INTRA_SV00138_overview
+      start: 174630000
+      stop: 174800573
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00142_BP1
+      start: 174660678
+      stop: 174660678
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00142_BP2
+      start: 174770940
+      stop: 174770940
+    -
+      chr: '3'
+      ext: 18377
+      name: pRCC2_1298_01_T01_INTRA_SV00142_overview
+      start: 174660678
+      stop: 174770940
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00160_BP1
+      start: 13982
+      stop: 13982
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00160_BP2
+      start: 51931848
+      stop: 51931848
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00166_BP1
+      start: 419397
+      stop: 419397
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00166_BP2
+      start: 424695
+      stop: 424695
+    -
+      chr: '5'
+      ext: 883
+      name: pRCC2_1298_01_T01_INTRA_SV00166_overview
+      start: 419397
+      stop: 424695
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00182_BP1
+      start: 162873728
+      stop: 162873728
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00182_BP2
+      start: 162895074
+      stop: 162895074
+    -
+      chr: '5'
+      ext: 3557
+      name: pRCC2_1298_01_T01_INTRA_SV00182_overview
+      start: 162873728
+      stop: 162895074
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00204_BP1
+      start: 69751455
+      stop: 69751455
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00204_BP2
+      start: 69858725
+      stop: 69858725
+    -
+      chr: '7'
+      ext: 17878
+      name: pRCC2_1298_01_T01_INTRA_SV00204_overview
+      start: 69751455
+      stop: 69858725
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00265_BP1
+      start: 6063125
+      stop: 6063125
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00265_BP2
+      start: 94312449
+      stop: 94312449
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00270_BP1
+      start: 12760645
+      stop: 12760645
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00270_BP2
+      start: 13968408
+      stop: 13968408
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00323_BP1
+      start: 6487072
+      stop: 6487072
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00323_BP2
+      start: 6886730
+      stop: 6886730
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00325_BP1
+      start: 6535958
+      stop: 6535958
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00325_BP2
+      start: 6828701
+      stop: 6828701
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00330_BP1
+      start: 6973990
+      stop: 6973990
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00330_BP2
+      start: 7088831
+      stop: 7088831
+    -
+      chr: '16'
+      ext: 19140
+      name: pRCC2_1298_01_T01_INTRA_SV00330_overview
+      start: 6973990
+      stop: 7088831
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00348_BP1
+      start: 51015209
+      stop: 51015209
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00348_BP2
+      start: 72565687
+      stop: 72565687
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00352_BP1
+      start: 62140161
+      stop: 62140161
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00352_BP2
+      start: 62177947
+      stop: 62177947
+    -
+      chr: '17'
+      ext: 6297
+      name: pRCC2_1298_01_T01_INTRA_SV00352_overview
+      start: 62140161
+      stop: 62177947
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00356_BP1
+      start: 62598958
+      stop: 62598958
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00356_BP2
+      start: 63352882
+      stop: 63352882
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00364_BP1
+      start: 79285572
+      stop: 79285572
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00364_BP2
+      start: 79287929
+      stop: 79287929
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00364_overview
+      start: 79285572
+      stop: 79287929
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00369_BP1
+      start: 79307105
+      stop: 79307105
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00369_BP2
+      start: 79449232
+      stop: 79449232
+    -
+      chr: '17'
+      ext: 23688
+      name: pRCC2_1298_01_T01_INTRA_SV00369_overview
+      start: 79307105
+      stop: 79449232
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00374_BP1
+      start: 79505671
+      stop: 79505671
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00374_BP2
+      start: 79996204
+      stop: 79996204
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00396_BP1
+      start: 24157380
+      stop: 24157380
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00396_BP2
+      start: 24172474
+      stop: 24172474
+    -
+      chr: '19'
+      ext: 2515
+      name: pRCC2_1298_01_T01_INTRA_SV00396_overview
+      start: 24157380
+      stop: 24172474
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00401_BP1
+      start: 38632269
+      stop: 38632269
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00401_BP2
+      start: 38704206
+      stop: 38704206
+    -
+      chr: '19'
+      ext: 11989
+      name: pRCC2_1298_01_T01_INTRA_SV00401_overview
+      start: 38632269
+      stop: 38704206
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00405_BP1
+      start: 49383551
+      stop: 49383551
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1298_01_T01_INTRA_SV00405_BP2
+      start: 49437287
+      stop: 49437287
+    -
+      chr: '19'
+      ext: 8956
+      name: pRCC2_1298_01_T01_INTRA_SV00405_overview
+      start: 49383551
+      stop: 49437287
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0403.bam
+  name: pRCC2_1479_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00018_BP1
+      start: 26838503
+      stop: 26838604
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00018_BP2
+      start: 73853811
+      stop: 73853912
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00025_BP1
+      start: 28829496
+      stop: 28829597
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00025_BP2
+      start: 104468493
+      stop: 104468594
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00030_BP1
+      start: 28839705
+      stop: 28839806
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00030_BP2
+      start: 104458392
+      stop: 104458493
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00033_BP1
+      start: 82346464
+      stop: 82346565
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00033_BP2
+      start: 38616531
+      stop: 38616632
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00038_BP1
+      start: 171579229
+      stop: 171579330
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00038_BP2
+      start: 38591911
+      stop: 38592012
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00042_BP1
+      start: 171584678
+      stop: 171584779
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00042_BP2
+      start: 38596736
+      stop: 38596837
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00051_BP1
+      start: 70333160
+      stop: 70333261
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00051_BP2
+      start: 178143712
+      stop: 178143813
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00157_BP1
+      start: 3861101
+      stop: 3861202
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00157_BP2
+      start: 34628058
+      stop: 34628159
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00178_BP1
+      start: 104933452
+      stop: 104933553
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00178_BP2
+      start: 48824297
+      stop: 48824398
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00183_BP1
+      start: 105037189
+      stop: 105037290
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00183_BP2
+      start: 48701889
+      stop: 48701990
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00197_BP1
+      start: 80644415
+      stop: 80644516
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00197_BP2
+      start: 53383964
+      stop: 53384065
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00219_BP1
+      start: 51407210
+      stop: 51407311
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00219_BP2
+      start: 124009169
+      stop: 124009270
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00225_BP1
+      start: 51433376
+      stop: 51433477
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00225_BP2
+      start: 123990905
+      stop: 123991006
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00265_BP1
+      start: 127697
+      stop: 127798
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00265_BP2
+      start: 155239126
+      stop: 155239227
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00283_BP1
+      start: 36196780
+      stop: 36196881
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00283_BP2
+      start: 70415476
+      stop: 70415577
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00289_BP1
+      start: 36199094
+      stop: 36199195
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTER_SV00289_BP2
+      start: 13695582
+      stop: 13695683
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00014_BP1
+      start: 153200424
+      stop: 153200424
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00014_BP2
+      start: 153220204
+      stop: 153220204
+    -
+      chr: X
+      ext: 3296
+      name: pRCC2_1479_03_T01_INTRA_SV00014_overview
+      start: 153200424
+      stop: 153220204
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00026_BP1
+      start: 43119183
+      stop: 43119183
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00026_BP2
+      start: 43138831
+      stop: 43138831
+    -
+      chr: '1'
+      ext: 3274
+      name: pRCC2_1479_03_T01_INTRA_SV00026_overview
+      start: 43119183
+      stop: 43138831
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00030_BP1
+      start: 73710066
+      stop: 73710066
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00030_BP2
+      start: 73747112
+      stop: 73747112
+    -
+      chr: '1'
+      ext: 6174
+      name: pRCC2_1479_03_T01_INTRA_SV00030_overview
+      start: 73710066
+      stop: 73747112
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00033_BP1
+      start: 85932340
+      stop: 85932340
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00033_BP2
+      start: 85942046
+      stop: 85942046
+    -
+      chr: '1'
+      ext: 1617
+      name: pRCC2_1479_03_T01_INTRA_SV00033_overview
+      start: 85932340
+      stop: 85942046
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00041_BP1
+      start: 153471997
+      stop: 153471997
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00041_BP2
+      start: 153497440
+      stop: 153497440
+    -
+      chr: '1'
+      ext: 4240
+      name: pRCC2_1479_03_T01_INTRA_SV00041_overview
+      start: 153471997
+      stop: 153497440
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00046_BP1
+      start: 153657564
+      stop: 153657564
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00046_BP2
+      start: 153685000
+      stop: 153685000
+    -
+      chr: '1'
+      ext: 4572
+      name: pRCC2_1479_03_T01_INTRA_SV00046_overview
+      start: 153657564
+      stop: 153685000
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00050_BP1
+      start: 155610455
+      stop: 155610455
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00050_BP2
+      start: 155861017
+      stop: 155861017
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00056_BP1
+      start: 155726052
+      stop: 155726052
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00056_BP2
+      start: 155969468
+      stop: 155969468
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00062_BP1
+      start: 204450422
+      stop: 204450422
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00062_BP2
+      start: 204486972
+      stop: 204486972
+    -
+      chr: '1'
+      ext: 6091
+      name: pRCC2_1479_03_T01_INTRA_SV00062_overview
+      start: 204450422
+      stop: 204486972
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00071_BP1
+      start: 24278599
+      stop: 24278599
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00071_BP2
+      start: 24298941
+      stop: 24298941
+    -
+      chr: '2'
+      ext: 3390
+      name: pRCC2_1479_03_T01_INTRA_SV00071_overview
+      start: 24278599
+      stop: 24298941
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00104_BP1
+      start: 13712138
+      stop: 13712138
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00104_BP2
+      start: 178169088
+      stop: 178169088
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00110_BP1
+      start: 21349897
+      stop: 21349897
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00110_BP2
+      start: 21369221
+      stop: 21369221
+    -
+      chr: '4'
+      ext: 3220
+      name: pRCC2_1479_03_T01_INTRA_SV00110_overview
+      start: 21349897
+      stop: 21369221
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00123_BP1
+      start: 139883310
+      stop: 139883310
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00123_BP2
+      start: 139902819
+      stop: 139902819
+    -
+      chr: '4'
+      ext: 3251
+      name: pRCC2_1479_03_T01_INTRA_SV00123_overview
+      start: 139883310
+      stop: 139902819
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00132_BP1
+      start: 13853579
+      stop: 13853579
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00132_BP2
+      start: 13976320
+      stop: 13976320
+    -
+      chr: '5'
+      ext: 20457
+      name: pRCC2_1479_03_T01_INTRA_SV00132_overview
+      start: 13853579
+      stop: 13976320
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00156_BP1
+      start: 176774658
+      stop: 176774658
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00156_BP2
+      start: 176815167
+      stop: 176815167
+    -
+      chr: '5'
+      ext: 6751
+      name: pRCC2_1479_03_T01_INTRA_SV00156_overview
+      start: 176774658
+      stop: 176815167
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00177_BP1
+      start: 5576225
+      stop: 5576225
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00177_BP2
+      start: 5593084
+      stop: 5593084
+    -
+      chr: '7'
+      ext: 2810
+      name: pRCC2_1479_03_T01_INTRA_SV00177_overview
+      start: 5576225
+      stop: 5593084
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00188_BP1
+      start: 74019203
+      stop: 74019203
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00188_BP2
+      start: 74061779
+      stop: 74061779
+    -
+      chr: '7'
+      ext: 7096
+      name: pRCC2_1479_03_T01_INTRA_SV00188_overview
+      start: 74019203
+      stop: 74061779
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00207_BP1
+      start: 27314755
+      stop: 27314755
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00207_BP2
+      start: 27324271
+      stop: 27324271
+    -
+      chr: '8'
+      ext: 1586
+      name: pRCC2_1479_03_T01_INTRA_SV00207_overview
+      start: 27314755
+      stop: 27324271
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00214_BP1
+      start: 123997426
+      stop: 123997426
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00214_BP2
+      start: 124005376
+      stop: 124005376
+    -
+      chr: '8'
+      ext: 1325
+      name: pRCC2_1479_03_T01_INTRA_SV00214_overview
+      start: 123997426
+      stop: 124005376
+    -
+      chr: '9'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00227_BP1
+      start: 129672189
+      stop: 129672189
+    -
+      chr: '9'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00227_BP2
+      start: 129675967
+      stop: 129675967
+    -
+      chr: '9'
+      ext: 629
+      name: pRCC2_1479_03_T01_INTRA_SV00227_overview
+      start: 129672189
+      stop: 129675967
+    -
+      chr: '9'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00232_BP1
+      start: 131679365
+      stop: 131679365
+    -
+      chr: '9'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00232_BP2
+      start: 131683831
+      stop: 131683831
+    -
+      chr: '9'
+      ext: 744
+      name: pRCC2_1479_03_T01_INTRA_SV00232_overview
+      start: 131679365
+      stop: 131683831
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00247_BP1
+      start: 75729602
+      stop: 75729602
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00247_BP2
+      start: 75732260
+      stop: 75732260
+    -
+      chr: '10'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00247_overview
+      start: 75729602
+      stop: 75732260
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00262_BP1
+      start: 63686319
+      stop: 63686319
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00262_BP2
+      start: 63690845
+      stop: 63690845
+    -
+      chr: '11'
+      ext: 754
+      name: pRCC2_1479_03_T01_INTRA_SV00262_overview
+      start: 63686319
+      stop: 63690845
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00279_BP1
+      start: 27659616
+      stop: 27659616
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00279_BP2
+      start: 27670815
+      stop: 27670815
+    -
+      chr: '12'
+      ext: 1866
+      name: pRCC2_1479_03_T01_INTRA_SV00279_overview
+      start: 27659616
+      stop: 27670815
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00283_BP1
+      start: 50141674
+      stop: 50141674
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00283_BP2
+      start: 50182178
+      stop: 50182178
+    -
+      chr: '12'
+      ext: 6750
+      name: pRCC2_1479_03_T01_INTRA_SV00283_overview
+      start: 50141674
+      stop: 50182178
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00288_BP1
+      start: 53722197
+      stop: 53722197
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00288_BP2
+      start: 53744062
+      stop: 53744062
+    -
+      chr: '12'
+      ext: 3644
+      name: pRCC2_1479_03_T01_INTRA_SV00288_overview
+      start: 53722197
+      stop: 53744062
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00292_BP1
+      start: 54031649
+      stop: 54031649
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00292_BP2
+      start: 54056305
+      stop: 54056305
+    -
+      chr: '12'
+      ext: 4109
+      name: pRCC2_1479_03_T01_INTRA_SV00292_overview
+      start: 54031649
+      stop: 54056305
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00296_BP1
+      start: 54032906
+      stop: 54032906
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00296_BP2
+      start: 54042486
+      stop: 54042486
+    -
+      chr: '12'
+      ext: 1596
+      name: pRCC2_1479_03_T01_INTRA_SV00296_overview
+      start: 54032906
+      stop: 54042486
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00301_BP1
+      start: 57629312
+      stop: 57629312
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00301_BP2
+      start: 57642557
+      stop: 57642557
+    -
+      chr: '12'
+      ext: 2207
+      name: pRCC2_1479_03_T01_INTRA_SV00301_overview
+      start: 57629312
+      stop: 57642557
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00321_BP1
+      start: 124466093
+      stop: 124466093
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00321_BP2
+      start: 124549368
+      stop: 124549368
+    -
+      chr: '12'
+      ext: 13879
+      name: pRCC2_1479_03_T01_INTRA_SV00321_overview
+      start: 124466093
+      stop: 124549368
+    -
+      chr: '14'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00340_BP1
+      start: 67535723
+      stop: 67535723
+    -
+      chr: '14'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00340_BP2
+      start: 67535986
+      stop: 67535986
+    -
+      chr: '14'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00340_overview
+      start: 67535723
+      stop: 67535986
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00349_BP1
+      start: 80236
+      stop: 80236
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00349_BP2
+      start: 127748
+      stop: 127748
+    -
+      chr: '16'
+      ext: 7918
+      name: pRCC2_1479_03_T01_INTRA_SV00349_overview
+      start: 80236
+      stop: 127748
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00354_BP1
+      start: 2272208
+      stop: 2272208
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00354_BP2
+      start: 2288059
+      stop: 2288059
+    -
+      chr: '16'
+      ext: 2642
+      name: pRCC2_1479_03_T01_INTRA_SV00354_overview
+      start: 2272208
+      stop: 2288059
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00361_BP1
+      start: 30083517
+      stop: 30083517
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00361_BP2
+      start: 30084484
+      stop: 30084484
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00361_overview
+      start: 30083517
+      stop: 30084484
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00379_BP1
+      start: 27226953
+      stop: 27226953
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00379_BP2
+      start: 27230139
+      stop: 27230139
+    -
+      chr: '17'
+      ext: 531
+      name: pRCC2_1479_03_T01_INTRA_SV00379_overview
+      start: 27226953
+      stop: 27230139
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00384_BP1
+      start: 28632223
+      stop: 28632223
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00384_BP2
+      start: 28668320
+      stop: 28668320
+    -
+      chr: '17'
+      ext: 6016
+      name: pRCC2_1479_03_T01_INTRA_SV00384_overview
+      start: 28632223
+      stop: 28668320
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00389_BP1
+      start: 36176809
+      stop: 36176809
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00389_BP2
+      start: 36197743
+      stop: 36197743
+    -
+      chr: '17'
+      ext: 3489
+      name: pRCC2_1479_03_T01_INTRA_SV00389_overview
+      start: 36176809
+      stop: 36197743
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00397_BP1
+      start: 73568895
+      stop: 73568895
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00397_BP2
+      start: 73583680
+      stop: 73583680
+    -
+      chr: '17'
+      ext: 2464
+      name: pRCC2_1479_03_T01_INTRA_SV00397_overview
+      start: 73568895
+      stop: 73583680
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00408_BP1
+      start: 5844935
+      stop: 5844935
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00408_BP2
+      start: 5890871
+      stop: 5890871
+    -
+      chr: '19'
+      ext: 7656
+      name: pRCC2_1479_03_T01_INTRA_SV00408_overview
+      start: 5844935
+      stop: 5890871
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00417_BP1
+      start: 14178064
+      stop: 14178064
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00417_BP2
+      start: 14182761
+      stop: 14182761
+    -
+      chr: '19'
+      ext: 783
+      name: pRCC2_1479_03_T01_INTRA_SV00417_overview
+      start: 14178064
+      stop: 14182761
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00423_BP1
+      start: 18468638
+      stop: 18468638
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00423_BP2
+      start: 18490502
+      stop: 18490502
+    -
+      chr: '19'
+      ext: 3644
+      name: pRCC2_1479_03_T01_INTRA_SV00423_overview
+      start: 18468638
+      stop: 18490502
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00436_BP1
+      start: 45263265
+      stop: 45263265
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00436_BP2
+      start: 45276734
+      stop: 45276734
+    -
+      chr: '19'
+      ext: 2245
+      name: pRCC2_1479_03_T01_INTRA_SV00436_overview
+      start: 45263265
+      stop: 45276734
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00442_BP1
+      start: 50068008
+      stop: 50068008
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00442_BP2
+      start: 50125426
+      stop: 50125426
+    -
+      chr: '19'
+      ext: 9569
+      name: pRCC2_1479_03_T01_INTRA_SV00442_overview
+      start: 50068008
+      stop: 50125426
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00447_BP1
+      start: 13304853
+      stop: 13304853
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00447_BP2
+      start: 13317095
+      stop: 13317095
+    -
+      chr: '20'
+      ext: 2040
+      name: pRCC2_1479_03_T01_INTRA_SV00447_overview
+      start: 13304853
+      stop: 13317095
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00453_BP1
+      start: 14068700
+      stop: 14068700
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00453_BP2
+      start: 14711999
+      stop: 14711999
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00460_BP1
+      start: 48384573
+      stop: 48384573
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00460_BP2
+      start: 48402062
+      stop: 48402062
+    -
+      chr: '20'
+      ext: 2915
+      name: pRCC2_1479_03_T01_INTRA_SV00460_overview
+      start: 48384573
+      stop: 48402062
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00471_BP1
+      start: 62159492
+      stop: 62159492
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00471_BP2
+      start: 62162337
+      stop: 62162337
+    -
+      chr: '20'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00471_overview
+      start: 62159492
+      stop: 62162337
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00486_BP1
+      start: 31881737
+      stop: 31881737
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00486_BP2
+      start: 31900594
+      stop: 31900594
+    -
+      chr: '22'
+      ext: 3143
+      name: pRCC2_1479_03_T01_INTRA_SV00486_overview
+      start: 31881737
+      stop: 31900594
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00492_BP1
+      start: 41956467
+      stop: 41956467
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1479_03_T01_INTRA_SV00492_BP2
+      start: 41965262
+      stop: 41965262
+    -
+      chr: '22'
+      ext: 1466
+      name: pRCC2_1479_03_T01_INTRA_SV00492_overview
+      start: 41956467
+      stop: 41965262
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0431.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0432.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0407.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0408.bam
+  name: cdRCC_1697_10_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTER_SV00029_BP1
+      start: 113616792
+      stop: 113616893
+    -
+      chr: '12'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTER_SV00029_BP2
+      start: 121551930
+      stop: 121552031
+    -
+      chr: '11'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTER_SV00131_BP1
+      start: 42008436
+      stop: 42008537
+    -
+      chr: '3'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTER_SV00131_BP2
+      start: 147305459
+      stop: 147305560
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00041_BP1
+      start: 166642527
+      stop: 166642527
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00041_BP2
+      start: 167942390
+      stop: 167942390
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00044_BP1
+      start: 174927127
+      stop: 174927127
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00044_BP2
+      start: 184594265
+      stop: 184594265
+    -
+      chr: '4'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00107_BP1
+      start: 113282405
+      stop: 113282405
+    -
+      chr: '4'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00107_BP2
+      start: 113312235
+      stop: 113312235
+    -
+      chr: '4'
+      ext: 4971
+      name: cdRCC_1697_10_T01_INTRA_SV00107_overview
+      start: 113282405
+      stop: 113312235
+    -
+      chr: '5'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00120_BP1
+      start: 11045870
+      stop: 11045870
+    -
+      chr: '5'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00120_BP2
+      start: 11438565
+      stop: 11438565
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00194_BP1
+      start: 21923314
+      stop: 21923314
+    -
+      chr: '9'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00194_BP2
+      start: 22689958
+      stop: 22689958
+    -
+      chr: '22'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00306_BP1
+      start: 29685955
+      stop: 29685955
+    -
+      chr: '22'
+      ext: 200
+      name: cdRCC_1697_10_T01_INTRA_SV00306_BP2
+      start: 31740646
+      stop: 31740646
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4026_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4026_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4026_0402.bam
+  name: pRCC2_1410_02_T01
+  snapshots:
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1410_02_T01_INTER_SV00155_BP1
+      start: 65267726
+      stop: 65267827
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1410_02_T01_INTER_SV00155_BP2
+      start: 41659135
+      stop: 41659236
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4010_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4010_0401.bam
+  name: pRCC1_1699_01_T01
+  snapshots:
+    -
+      chr: X
+      ext: 200
+      name: pRCC1_1699_01_T01_INTRA_SV00017_BP1
+      start: 39584098
+      stop: 39584098
+    -
+      chr: X
+      ext: 200
+      name: pRCC1_1699_01_T01_INTRA_SV00017_BP2
+      start: 39599671
+      stop: 39599671
+    -
+      chr: X
+      ext: 2595
+      name: pRCC1_1699_01_T01_INTRA_SV00017_overview
+      start: 39584098
+      stop: 39599671
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7059_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0404.bam
+  name: pRCC2_1494_04_T01
+  snapshots:
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1494_04_T01_INTRA_SV00061_BP1
+      start: 94044003
+      stop: 94044003
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1494_04_T01_INTRA_SV00061_BP2
+      start: 94044460
+      stop: 94044460
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC2_1494_04_T01_INTRA_SV00061_overview
+      start: 94044003
+      stop: 94044460
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4046_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4046_0401.bam
+  name: pRCC1_1546_01_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC1_1546_01_T01_INTER_SV00049_BP1
+      start: 214846703
+      stop: 214846804
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC1_1546_01_T01_INTER_SV00049_BP2
+      start: 113957329
+      stop: 113957430
+    -
+      chr: '13'
+      ext: 200
+      name: pRCC1_1546_01_T01_INTRA_SV00328_BP1
+      start: 85056653
+      stop: 85056653
+    -
+      chr: '13'
+      ext: 200
+      name: pRCC1_1546_01_T01_INTRA_SV00328_BP2
+      start: 85057036
+      stop: 85057036
+    -
+      chr: '13'
+      ext: 500
+      name: pRCC1_1546_01_T01_INTRA_SV00328_overview
+      start: 85056653
+      stop: 85057036
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC1_1546_01_T01_INTRA_SV00356_BP1
+      start: 44345706
+      stop: 44345706
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC1_1546_01_T01_INTRA_SV00356_BP2
+      start: 44349648
+      stop: 44349648
+    -
+      chr: '15'
+      ext: 657
+      name: pRCC1_1546_01_T01_INTRA_SV00356_overview
+      start: 44345706
+      stop: 44349648
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0407.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0432.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0409.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0431.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0410.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0408.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0433.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0403.bam
+  name: pRCC2_1824_13_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00062_BP1
+      start: 245322038
+      stop: 245322038
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00062_BP2
+      start: 245362715
+      stop: 245362715
+    -
+      chr: '1'
+      ext: 6779
+      name: pRCC2_1824_13_T01_INTRA_SV00062_overview
+      start: 245322038
+      stop: 245362715
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00090_BP1
+      start: 242633183
+      stop: 242633183
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00090_BP2
+      start: 242643953
+      stop: 242643953
+    -
+      chr: '2'
+      ext: 1795
+      name: pRCC2_1824_13_T01_INTRA_SV00090_overview
+      start: 242633183
+      stop: 242643953
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00125_BP1
+      start: 93893001
+      stop: 93893001
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00125_BP2
+      start: 94641086
+      stop: 94641086
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00165_BP1
+      start: 78319084
+      stop: 78319084
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00165_BP2
+      start: 78377643
+      stop: 78377643
+    -
+      chr: '7'
+      ext: 9760
+      name: pRCC2_1824_13_T01_INTRA_SV00165_overview
+      start: 78319084
+      stop: 78377643
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00181_BP1
+      start: 158487611
+      stop: 158487611
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00181_BP2
+      start: 158504994
+      stop: 158504994
+    -
+      chr: '7'
+      ext: 2897
+      name: pRCC2_1824_13_T01_INTRA_SV00181_overview
+      start: 158487611
+      stop: 158504994
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00199_BP1
+      start: 144195792
+      stop: 144195792
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00199_BP2
+      start: 144212515
+      stop: 144212515
+    -
+      chr: '8'
+      ext: 2787
+      name: pRCC2_1824_13_T01_INTRA_SV00199_overview
+      start: 144195792
+      stop: 144212515
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00253_BP1
+      start: 67834276
+      stop: 67834276
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00253_BP2
+      start: 67859738
+      stop: 67859738
+    -
+      chr: '12'
+      ext: 4243
+      name: pRCC2_1824_13_T01_INTRA_SV00253_overview
+      start: 67834276
+      stop: 67859738
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00336_BP1
+      start: 29936519
+      stop: 29936519
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00336_BP2
+      start: 41340406
+      stop: 41340406
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00350_BP1
+      start: 20156120
+      stop: 20156120
+    -
+      chr: '20'
+      ext: 200
+      name: pRCC2_1824_13_T01_INTRA_SV00350_BP2
+      start: 41311949
+      stop: 41311949
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4013_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4013_0401.bam
+  name: pRCC1_1708_01_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC1_1708_01_T01_INTER_SV00041_BP1
+      start: 58543032
+      stop: 58543133
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC1_1708_01_T01_INTER_SV00041_BP2
+      start: 110180832
+      stop: 110180933
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0402.bam
+  name: pRCC2_1568_04_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1568_04_T01_INTRA_SV00061_BP1
+      start: 242987553
+      stop: 242987553
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1568_04_T01_INTRA_SV00061_BP2
+      start: 242987884
+      stop: 242987884
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00061_overview
+      start: 242987553
+      stop: 242987884
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1568_04_T01_INTRA_SV00170_BP1
+      start: 102807362
+      stop: 102807362
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1568_04_T01_INTRA_SV00170_BP2
+      start: 131549226
+      stop: 131549226
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1568_04_T01_INTRA_SV00185_BP1
+      start: 50615481
+      stop: 50615481
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1568_04_T01_INTRA_SV00185_BP2
+      start: 50673551
+      stop: 50673551
+    -
+      chr: '12'
+      ext: 9678
+      name: pRCC2_1568_04_T01_INTRA_SV00185_overview
+      start: 50615481
+      stop: 50673551
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7047_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0404.bam
+  name: pRCC2_1851_04_T01
+  snapshots:
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1851_04_T01_INTRA_SV00144_BP1
+      start: 53205602
+      stop: 53205602
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1851_04_T01_INTRA_SV00144_BP2
+      start: 53207143
+      stop: 53207143
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1851_04_T01_INTRA_SV00144_overview
+      start: 53205602
+      stop: 53207143
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7013_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4034_0401.bam
+  name: pRCC1_1472_01_T01
+  snapshots:
+    -
+      chr: GL000195.1
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00005_BP1
+      start: 16031
+      stop: 16031
+    -
+      chr: GL000195.1
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00005_BP2
+      start: 16958
+      stop: 16958
+    -
+      chr: GL000195.1
+      ext: 500
+      name: pRCC1_1472_01_T01_INTRA_SV00005_overview
+      start: 16031
+      stop: 16958
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00071_BP1
+      start: 205637571
+      stop: 205637571
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00071_BP2
+      start: 205638026
+      stop: 205638026
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC1_1472_01_T01_INTRA_SV00071_overview
+      start: 205637571
+      stop: 205638026
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00113_BP1
+      start: 9984649
+      stop: 9984649
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00113_BP2
+      start: 9985210
+      stop: 9985210
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1472_01_T01_INTRA_SV00113_overview
+      start: 9984649
+      stop: 9985210
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00139_BP1
+      start: 47564318
+      stop: 47564318
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00139_BP2
+      start: 47566260
+      stop: 47566260
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC1_1472_01_T01_INTRA_SV00139_overview
+      start: 47564318
+      stop: 47566260
+    -
+      chr: '18'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00289_BP1
+      start: 73861296
+      stop: 73861296
+    -
+      chr: '18'
+      ext: 200
+      name: pRCC1_1472_01_T01_INTRA_SV00289_BP2
+      start: 73862876
+      stop: 73862876
+    -
+      chr: '18'
+      ext: 500
+      name: pRCC1_1472_01_T01_INTRA_SV00289_overview
+      start: 73861296
+      stop: 73862876
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4036_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4036_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4036_0402.bam
+  name: pRCC1_1550_02_T01
+  snapshots:
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC1_1550_02_T01_INTRA_SV00208_BP1
+      start: 149744757
+      stop: 149744757
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC1_1550_02_T01_INTRA_SV00208_BP2
+      start: 153750016
+      stop: 153750016
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0402.bam
+  name: pRCC2_1429_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00069_BP1
+      start: 15864108
+      stop: 15864209
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00069_BP2
+      start: 86071544
+      stop: 86071645
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00073_BP1
+      start: 16470560
+      stop: 16470661
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00073_BP2
+      start: 85457601
+      stop: 85457702
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00080_BP1
+      start: 26370594
+      stop: 26370695
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00080_BP2
+      start: 41104526
+      stop: 41104627
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00089_BP1
+      start: 151234122
+      stop: 151234223
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00089_BP2
+      start: 120751521
+      stop: 120751622
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00093_BP1
+      start: 151871393
+      stop: 151871494
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00093_BP2
+      start: 121297544
+      stop: 121297645
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00337_BP1
+      start: 102020380
+      stop: 102020481
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00337_BP2
+      start: 20023881
+      stop: 20023982
+    -
+      chr: '14'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00395_BP1
+      start: 75030464
+      stop: 75030565
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00395_BP2
+      start: 8450642
+      stop: 8450743
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00467_BP1
+      start: 80415490
+      stop: 80415591
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00467_BP2
+      start: 1185453
+      stop: 1185554
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00532_BP1
+      start: 46689715
+      stop: 46689816
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00532_BP2
+      start: 48759941
+      stop: 48760042
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00536_BP1
+      start: 47326998
+      stop: 47327099
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1429_03_T01_INTER_SV00536_BP2
+      start: 49128850
+      stop: 49128951
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00081_BP1
+      start: 48678206
+      stop: 48678206
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00081_BP2
+      start: 48932356
+      stop: 48932356
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00186_BP1
+      start: 209502734
+      stop: 209502734
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00186_BP2
+      start: 209504389
+      stop: 209504389
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00186_overview
+      start: 209502734
+      stop: 209504389
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00193_BP1
+      start: 233297251
+      stop: 233297251
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00193_BP2
+      start: 233843563
+      stop: 233843563
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00219_BP1
+      start: 155773091
+      stop: 155773091
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00219_BP2
+      start: 155849106
+      stop: 155849106
+    -
+      chr: '3'
+      ext: 12669
+      name: pRCC2_1429_03_T01_INTRA_SV00219_overview
+      start: 155773091
+      stop: 155849106
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00289_BP1
+      start: 176480884
+      stop: 176480884
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00289_BP2
+      start: 176552525
+      stop: 176552525
+    -
+      chr: '5'
+      ext: 11940
+      name: pRCC2_1429_03_T01_INTRA_SV00289_overview
+      start: 176480884
+      stop: 176552525
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00313_BP1
+      start: 107119584
+      stop: 107119584
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00313_BP2
+      start: 107150093
+      stop: 107150093
+    -
+      chr: '6'
+      ext: 5085
+      name: pRCC2_1429_03_T01_INTRA_SV00313_overview
+      start: 107119584
+      stop: 107150093
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00351_BP1
+      start: 71202739
+      stop: 71202739
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00351_BP2
+      start: 91256372
+      stop: 91256372
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00404_BP1
+      start: 81131603
+      stop: 81131603
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00404_BP2
+      start: 81153609
+      stop: 81153609
+    -
+      chr: '8'
+      ext: 3667
+      name: pRCC2_1429_03_T01_INTRA_SV00404_overview
+      start: 81131603
+      stop: 81153609
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00414_BP1
+      start: 130709069
+      stop: 130709069
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00414_BP2
+      start: 130716544
+      stop: 130716544
+    -
+      chr: '8'
+      ext: 1246
+      name: pRCC2_1429_03_T01_INTRA_SV00414_overview
+      start: 130709069
+      stop: 130716544
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00471_BP1
+      start: 111706348
+      stop: 111706348
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00471_BP2
+      start: 111797132
+      stop: 111797132
+    -
+      chr: '10'
+      ext: 15130
+      name: pRCC2_1429_03_T01_INTRA_SV00471_overview
+      start: 111706348
+      stop: 111797132
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00493_BP1
+      start: 66510481
+      stop: 66510481
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00493_BP2
+      start: 66528864
+      stop: 66528864
+    -
+      chr: '11'
+      ext: 3064
+      name: pRCC2_1429_03_T01_INTRA_SV00493_overview
+      start: 66510481
+      stop: 66528864
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00592_BP1
+      start: 31034649
+      stop: 31034649
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00592_BP2
+      start: 31035739
+      stop: 31035739
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00592_overview
+      start: 31034649
+      stop: 31035739
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00619_BP1
+      start: 20023565
+      stop: 20023565
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00619_BP2
+      start: 42390381
+      stop: 42390381
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00629_BP1
+      start: 47073366
+      stop: 47073366
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00629_BP2
+      start: 79950048
+      stop: 79950048
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00638_BP1
+      start: 49226331
+      stop: 49226331
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00638_BP2
+      start: 49232090
+      stop: 49232090
+    -
+      chr: '17'
+      ext: 960
+      name: pRCC2_1429_03_T01_INTRA_SV00638_overview
+      start: 49226331
+      stop: 49232090
+    -
+      chr: '18'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00656_BP1
+      start: 12038960
+      stop: 12038960
+    -
+      chr: '18'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00656_BP2
+      start: 12708399
+      stop: 12708399
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00682_BP1
+      start: 19461307
+      stop: 19461307
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00682_BP2
+      start: 19524735
+      stop: 19524735
+    -
+      chr: '19'
+      ext: 10571
+      name: pRCC2_1429_03_T01_INTRA_SV00682_overview
+      start: 19461307
+      stop: 19524735
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00694_BP1
+      start: 50364586
+      stop: 50364586
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00694_BP2
+      start: 50365255
+      stop: 50365255
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00694_overview
+      start: 50364586
+      stop: 50365255
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00741_BP1
+      start: 35756373
+      stop: 35756373
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1429_03_T01_INTRA_SV00741_BP2
+      start: 35763589
+      stop: 35763589
+    -
+      chr: '22'
+      ext: 1202
+      name: pRCC2_1429_03_T01_INTRA_SV00741_overview
+      start: 35756373
+      stop: 35763589
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4022_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4022_0401.bam
+  name: mixRCC_1336_01_T01
+  snapshots:
+    -
+      chr: '17'
+      ext: 200
+      name: mixRCC_1336_01_T01_INTRA_SV00296_BP1
+      start: 16593568
+      stop: 16593568
+    -
+      chr: '17'
+      ext: 200
+      name: mixRCC_1336_01_T01_INTRA_SV00296_BP2
+      start: 20799418
+      stop: 20799418
+    -
+      chr: '21'
+      ext: 200
+      name: mixRCC_1336_01_T01_INTRA_SV00331_BP1
+      start: 37857273
+      stop: 37857273
+    -
+      chr: '21'
+      ext: 200
+      name: mixRCC_1336_01_T01_INTRA_SV00331_BP2
+      start: 37857636
+      stop: 37857636
+    -
+      chr: '21'
+      ext: 500
+      name: mixRCC_1336_01_T01_INTRA_SV00331_overview
+      start: 37857273
+      stop: 37857636
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0402.bam
+  name: pRCC1_1689_06_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC1_1689_06_T01_INTRA_SV00046_BP1
+      start: 44315488
+      stop: 44315488
+    -
+      chr: '3'
+      ext: 200
+      name: pRCC1_1689_06_T01_INTRA_SV00046_BP2
+      start: 44316166
+      stop: 44316166
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC1_1689_06_T01_INTRA_SV00046_overview
+      start: 44315488
+      stop: 44316166
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4001_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4001_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4001_0402.bam
+  name: pRCC2_1799_02_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1799_02_T01_INTRA_SV00051_BP1
+      start: 29448279
+      stop: 29448279
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1799_02_T01_INTRA_SV00051_BP2
+      start: 37142387
+      stop: 37142387
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0407.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0408.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0403.bam
+  name: pRCC2_1782_08_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00075_BP1
+      start: 145866734
+      stop: 145866835
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00075_BP2
+      start: 43172698
+      stop: 43172799
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00088_BP1
+      start: 231410760
+      stop: 231410861
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00088_BP2
+      start: 151463340
+      stop: 151463441
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00091_BP1
+      start: 231667749
+      stop: 231667850
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00091_BP2
+      start: 152005089
+      stop: 152005190
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00244_BP1
+      start: 43873220
+      stop: 43873321
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00244_BP2
+      start: 95821197
+      stop: 95821298
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00250_BP1
+      start: 77262761
+      stop: 77262862
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00250_BP2
+      start: 95643730
+      stop: 95643831
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00304_BP1
+      start: 59568480
+      stop: 59568581
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00304_BP2
+      start: 96337824
+      stop: 96337925
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00307_BP1
+      start: 59818165
+      stop: 59818266
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00307_BP2
+      start: 95724667
+      stop: 95724768
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00333_BP1
+      start: 35767250
+      stop: 35767351
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00333_BP2
+      start: 56068239
+      stop: 56068340
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00340_BP1
+      start: 59875161
+      stop: 59875262
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00340_BP2
+      start: 115101585
+      stop: 115101686
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00361_BP1
+      start: 35881804
+      stop: 35881905
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00361_BP2
+      start: 84849405
+      stop: 84849506
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00366_BP1
+      start: 42536801
+      stop: 42536902
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTER_SV00366_BP2
+      start: 64128395
+      stop: 64128496
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00019_BP1
+      start: 5286689
+      stop: 5286689
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00019_BP2
+      start: 7023405
+      stop: 7023405
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00024_BP1
+      start: 6986437
+      stop: 6986437
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00024_BP2
+      start: 63103930
+      stop: 63103930
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00027_BP1
+      start: 6988078
+      stop: 6988078
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00027_BP2
+      start: 44306179
+      stop: 44306179
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00031_BP1
+      start: 7938571
+      stop: 7938571
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00031_BP2
+      start: 7946971
+      stop: 7946971
+    -
+      chr: X
+      ext: 1400
+      name: pRCC2_1782_08_T01_INTRA_SV00031_overview
+      start: 7938571
+      stop: 7946971
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00048_BP1
+      start: 11732506
+      stop: 11732506
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00048_BP2
+      start: 84549186
+      stop: 84549186
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00054_BP1
+      start: 13655933
+      stop: 13655933
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00054_BP2
+      start: 63106971
+      stop: 63106971
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00058_BP1
+      start: 13657090
+      stop: 13657090
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00058_BP2
+      start: 63114908
+      stop: 63114908
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00061_BP1
+      start: 13662313
+      stop: 13662313
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00061_BP2
+      start: 63107437
+      stop: 63107437
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00064_BP1
+      start: 13663197
+      stop: 13663197
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00064_BP2
+      start: 47623504
+      stop: 47623504
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00069_BP1
+      start: 13665686
+      stop: 13665686
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00069_BP2
+      start: 44306941
+      stop: 44306941
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00077_BP1
+      start: 38149640
+      stop: 38149640
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00077_BP2
+      start: 38151426
+      stop: 38151426
+    -
+      chr: X
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00077_overview
+      start: 38149640
+      stop: 38151426
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00079_BP1
+      start: 44312307
+      stop: 44312307
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00079_BP2
+      start: 63113071
+      stop: 63113071
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00082_BP1
+      start: 47240730
+      stop: 47240730
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00082_BP2
+      start: 63144262
+      stop: 63144262
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00092_BP1
+      start: 95644091
+      stop: 95644091
+    -
+      chr: X
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00092_BP2
+      start: 96626524
+      stop: 96626524
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00107_BP1
+      start: 21855303
+      stop: 21855303
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00107_BP2
+      start: 22587991
+      stop: 22587991
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00114_BP1
+      start: 46643534
+      stop: 46643534
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00114_BP2
+      start: 46649109
+      stop: 46649109
+    -
+      chr: '1'
+      ext: 929
+      name: pRCC2_1782_08_T01_INTRA_SV00114_overview
+      start: 46643534
+      stop: 46649109
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00121_BP1
+      start: 72104523
+      stop: 72104523
+    -
+      chr: '1'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00121_BP2
+      start: 72394946
+      stop: 72394946
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00146_BP1
+      start: 39171115
+      stop: 39171115
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00146_BP2
+      start: 39239844
+      stop: 39239844
+    -
+      chr: '2'
+      ext: 11455
+      name: pRCC2_1782_08_T01_INTRA_SV00146_overview
+      start: 39171115
+      stop: 39239844
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00168_BP1
+      start: 204620860
+      stop: 204620860
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00168_BP2
+      start: 231566254
+      stop: 231566254
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00174_BP1
+      start: 230865785
+      stop: 230865785
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00174_BP2
+      start: 231658778
+      stop: 231658778
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00178_BP1
+      start: 234842483
+      stop: 234842483
+    -
+      chr: '2'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00178_BP2
+      start: 235355812
+      stop: 235355812
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00208_BP1
+      start: 188928202
+      stop: 188928202
+    -
+      chr: '4'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00208_BP2
+      start: 188931808
+      stop: 188931808
+    -
+      chr: '4'
+      ext: 601
+      name: pRCC2_1782_08_T01_INTRA_SV00208_overview
+      start: 188928202
+      stop: 188931808
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00222_BP1
+      start: 54744584
+      stop: 54744584
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00222_BP2
+      start: 57258283
+      stop: 57258283
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00232_BP1
+      start: 176324177
+      stop: 176324177
+    -
+      chr: '5'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00232_BP2
+      start: 176770636
+      stop: 176770636
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00255_BP1
+      start: 99969663
+      stop: 99969663
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00255_BP2
+      start: 99972707
+      stop: 99972707
+    -
+      chr: '6'
+      ext: 507
+      name: pRCC2_1782_08_T01_INTRA_SV00255_overview
+      start: 99969663
+      stop: 99972707
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00259_BP1
+      start: 100649298
+      stop: 100649298
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00259_BP2
+      start: 100653429
+      stop: 100653429
+    -
+      chr: '6'
+      ext: 688
+      name: pRCC2_1782_08_T01_INTRA_SV00259_overview
+      start: 100649298
+      stop: 100653429
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00262_BP1
+      start: 101040192
+      stop: 101040192
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00262_BP2
+      start: 101044431
+      stop: 101044431
+    -
+      chr: '6'
+      ext: 706
+      name: pRCC2_1782_08_T01_INTRA_SV00262_overview
+      start: 101040192
+      stop: 101044431
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00272_BP1
+      start: 10967466
+      stop: 10967466
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00272_BP2
+      start: 11483229
+      stop: 11483229
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00284_BP1
+      start: 69950843
+      stop: 69950843
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00284_BP2
+      start: 69975786
+      stop: 69975786
+    -
+      chr: '7'
+      ext: 4157
+      name: pRCC2_1782_08_T01_INTRA_SV00284_overview
+      start: 69950843
+      stop: 69975786
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00291_BP1
+      start: 110875354
+      stop: 110875354
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00291_BP2
+      start: 113108312
+      stop: 113108312
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00296_BP1
+      start: 134101124
+      stop: 134101124
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00296_BP2
+      start: 135919542
+      stop: 135919542
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00299_BP1
+      start: 134194658
+      stop: 134194658
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00299_BP2
+      start: 152025020
+      stop: 152025020
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00302_BP1
+      start: 135919344
+      stop: 135919344
+    -
+      chr: '7'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00302_BP2
+      start: 151563540
+      stop: 151563540
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00329_BP1
+      start: 22521267
+      stop: 22521267
+    -
+      chr: '8'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00329_BP2
+      start: 22916441
+      stop: 22916441
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00365_BP1
+      start: 100704318
+      stop: 100704318
+    -
+      chr: '10'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00365_BP2
+      start: 100772840
+      stop: 100772840
+    -
+      chr: '10'
+      ext: 11420
+      name: pRCC2_1782_08_T01_INTRA_SV00365_overview
+      start: 100704318
+      stop: 100772840
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00383_BP1
+      start: 33955519
+      stop: 33955519
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00383_BP2
+      start: 72602414
+      stop: 72602414
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00387_BP1
+      start: 35479001
+      stop: 35479001
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00387_BP2
+      start: 72602444
+      stop: 72602444
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00393_BP1
+      start: 43858898
+      stop: 43858898
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00393_BP2
+      start: 45782539
+      stop: 45782539
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00395_BP1
+      start: 43869645
+      stop: 43869645
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00395_BP2
+      start: 77876333
+      stop: 77876333
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00402_BP1
+      start: 45608314
+      stop: 45608314
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00402_BP2
+      start: 116773388
+      stop: 116773388
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00405_BP1
+      start: 45692286
+      stop: 45692286
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00405_BP2
+      start: 77947463
+      stop: 77947463
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00410_BP1
+      start: 45773937
+      stop: 45773937
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00410_BP2
+      start: 71601046
+      stop: 71601046
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00416_BP1
+      start: 46124322
+      stop: 46124322
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00416_BP2
+      start: 72594100
+      stop: 72594100
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00419_BP1
+      start: 46340569
+      stop: 46340569
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00419_BP2
+      start: 116714039
+      stop: 116714039
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00424_BP1
+      start: 46453667
+      stop: 46453667
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00424_BP2
+      start: 72608458
+      stop: 72608458
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00434_BP1
+      start: 71478078
+      stop: 71478078
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00434_BP2
+      start: 72600508
+      stop: 72600508
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00437_BP1
+      start: 71482839
+      stop: 71482839
+    -
+      chr: '11'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00437_BP2
+      start: 72597025
+      stop: 72597025
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00452_BP1
+      start: 32182014
+      stop: 32182014
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00452_BP2
+      start: 32221617
+      stop: 32221617
+    -
+      chr: '12'
+      ext: 6600
+      name: pRCC2_1782_08_T01_INTRA_SV00452_overview
+      start: 32182014
+      stop: 32221617
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00465_BP1
+      start: 89181319
+      stop: 89181319
+    -
+      chr: '12'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00465_BP2
+      start: 89746739
+      stop: 89746739
+    -
+      chr: '14'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00496_BP1
+      start: 103733571
+      stop: 103733571
+    -
+      chr: '14'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00496_BP2
+      start: 103930031
+      stop: 103930031
+    -
+      chr: '14'
+      ext: 32743
+      name: pRCC2_1782_08_T01_INTRA_SV00496_overview
+      start: 103733571
+      stop: 103930031
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00511_BP1
+      start: 91457432
+      stop: 91457432
+    -
+      chr: '15'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00511_BP2
+      start: 91458310
+      stop: 91458310
+    -
+      chr: '15'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00511_overview
+      start: 91457432
+      stop: 91458310
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00518_BP1
+      start: 1040641
+      stop: 1040641
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00518_BP2
+      start: 3227153
+      stop: 3227153
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00525_BP1
+      start: 1812612
+      stop: 1812612
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00525_BP2
+      start: 2304957
+      stop: 2304957
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00530_BP1
+      start: 29768164
+      stop: 29768164
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00530_BP2
+      start: 30158375
+      stop: 30158375
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00541_BP1
+      start: 31057170
+      stop: 31057170
+    -
+      chr: '16'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00541_BP2
+      start: 31104649
+      stop: 31104649
+    -
+      chr: '16'
+      ext: 7913
+      name: pRCC2_1782_08_T01_INTRA_SV00541_overview
+      start: 31057170
+      stop: 31104649
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00559_BP1
+      start: 36020070
+      stop: 36020070
+    -
+      chr: '17'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00559_BP2
+      start: 36043716
+      stop: 36043716
+    -
+      chr: '17'
+      ext: 3941
+      name: pRCC2_1782_08_T01_INTRA_SV00559_overview
+      start: 36020070
+      stop: 36043716
+    -
+      chr: '18'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00568_BP1
+      start: 3466709
+      stop: 3466709
+    -
+      chr: '18'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00568_BP2
+      start: 3649945
+      stop: 3649945
+    -
+      chr: '18'
+      ext: 30539
+      name: pRCC2_1782_08_T01_INTRA_SV00568_overview
+      start: 3466709
+      stop: 3649945
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00576_BP1
+      start: 852527
+      stop: 852527
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00576_BP2
+      start: 12439069
+      stop: 12439069
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00579_BP1
+      start: 1091685
+      stop: 1091685
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00579_BP2
+      start: 1125747
+      stop: 1125747
+    -
+      chr: '19'
+      ext: 5677
+      name: pRCC2_1782_08_T01_INTRA_SV00579_overview
+      start: 1091685
+      stop: 1125747
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00581_BP1
+      start: 3138820
+      stop: 3138820
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00581_BP2
+      start: 4106689
+      stop: 4106689
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00591_BP1
+      start: 44334904
+      stop: 44334904
+    -
+      chr: '19'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00591_BP2
+      start: 45144970
+      stop: 45144970
+    -
+      chr: '21'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00613_BP1
+      start: 29721033
+      stop: 29721033
+    -
+      chr: '21'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00613_BP2
+      start: 30434193
+      stop: 30434193
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00630_BP1
+      start: 37963301
+      stop: 37963301
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00630_BP2
+      start: 38036308
+      stop: 38036308
+    -
+      chr: '22'
+      ext: 12168
+      name: pRCC2_1782_08_T01_INTRA_SV00630_overview
+      start: 37963301
+      stop: 38036308
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00632_BP1
+      start: 38031413
+      stop: 38031413
+    -
+      chr: '22'
+      ext: 200
+      name: pRCC2_1782_08_T01_INTRA_SV00632_BP2
+      start: 38037475
+      stop: 38037475
+    -
+      chr: '22'
+      ext: 1010
+      name: pRCC2_1782_08_T01_INTRA_SV00632_overview
+      start: 38031413
+      stop: 38037475
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0402.bam
+  name: mixRCC_2028_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTER_SV00053_BP1
+      start: 212898318
+      stop: 212898419
+    -
+      chr: X
+      ext: 200
+      name: mixRCC_2028_03_T01_INTER_SV00053_BP2
+      start: 25924239
+      stop: 25924340
+    -
+      chr: '3'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTRA_SV00090_BP1
+      start: 105741922
+      stop: 105741922
+    -
+      chr: '3'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTRA_SV00090_BP2
+      start: 112578715
+      stop: 112578715
+    -
+      chr: '13'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTRA_SV00226_BP1
+      start: 31756783
+      stop: 31756783
+    -
+      chr: '13'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTRA_SV00226_BP2
+      start: 31756938
+      stop: 31756938
+    -
+      chr: '13'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00226_overview
+      start: 31756783
+      stop: 31756938
+    -
+      chr: '16'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTRA_SV00252_BP1
+      start: 6090734
+      stop: 6090734
+    -
+      chr: '16'
+      ext: 200
+      name: mixRCC_2028_03_T01_INTRA_SV00252_BP2
+      start: 6090869
+      stop: 6090869
+    -
+      chr: '16'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00252_overview
+      start: 6090734
+      stop: 6090869

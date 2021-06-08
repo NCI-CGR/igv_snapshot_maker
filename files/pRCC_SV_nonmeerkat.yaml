@@ -1,0 +1,1734 @@
+---
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4006_0404.bam
+  name: pRCC2_1568_04_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00054_BP1
+      start: 108742963
+      stop: 108742963
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00054_BP2
+      start: 108743055
+      stop: 108743055
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC2_1568_04_T01_INTRA_SV00054_overview
+      start: 108742963
+      stop: 108743055
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00117_BP1
+      start: 43106707
+      stop: 43106707
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00117_BP2
+      start: 43108420
+      stop: 43108420
+    -
+      chr: '7'
+      ext: 800
+      name: pRCC2_1568_04_T01_INTRA_SV00117_overview
+      start: 43106707
+      stop: 43108420
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00167_BP1
+      start: 96990474
+      stop: 96990474
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1568_04_T01_INTRA_SV00167_BP2
+      start: 96990530
+      stop: 96990530
+    -
+      chr: '11'
+      ext: 800
+      name: pRCC2_1568_04_T01_INTRA_SV00167_overview
+      start: 96990474
+      stop: 96990530
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4035_0404.bam
+  name: pRCC1_1416_04_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC1_1416_04_T01_INTRA_SV00069_BP1
+      start: 136571509
+      stop: 136571509
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC1_1416_04_T01_INTRA_SV00069_BP2
+      start: 136607434
+      stop: 136607434
+    -
+      chr: '3'
+      ext: 5987
+      name: pRCC1_1416_04_T01_INTRA_SV00069_overview
+      start: 136571509
+      stop: 136607434
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1416_04_T01_INTRA_SV00103_BP1
+      start: 60841999
+      stop: 60841999
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1416_04_T01_INTRA_SV00103_BP2
+      start: 60842073
+      stop: 60842073
+    -
+      chr: '5'
+      ext: 800
+      name: pRCC1_1416_04_T01_INTRA_SV00103_overview
+      start: 60841999
+      stop: 60842073
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7059_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4043_0404.bam
+  name: pRCC2_1494_04_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1494_04_T01_INTRA_SV00042_BP1
+      start: 49805129
+      stop: 49805129
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1494_04_T01_INTRA_SV00042_BP2
+      start: 49805305
+      stop: 49805305
+    -
+      chr: '3'
+      ext: 800
+      name: pRCC2_1494_04_T01_INTRA_SV00042_overview
+      start: 49805129
+      stop: 49805305
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4045_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4045_0401.bam
+  name: pRCC1_1501_01_T01
+  snapshots:
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC1_1501_01_T01_INTRA_SV00245_BP1
+      start: 106228226
+      stop: 106228226
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC1_1501_01_T01_INTRA_SV00245_BP2
+      start: 106229726
+      stop: 106229726
+    -
+      chr: '11'
+      ext: 800
+      name: pRCC1_1501_01_T01_INTRA_SV00245_overview
+      start: 106228226
+      stop: 106229726
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0407.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0408.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4007_0402.bam
+  name: pRCC1_1671_08_T01
+  snapshots:
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC1_1671_08_T01_INTRA_SV00166_BP1
+      start: 129513682
+      stop: 129513682
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC1_1671_08_T01_INTRA_SV00166_BP2
+      start: 129513740
+      stop: 129513740
+    -
+      chr: '6'
+      ext: 800
+      name: pRCC1_1671_08_T01_INTRA_SV00166_overview
+      start: 129513682
+      stop: 129513740
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4027_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4027_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4027_0402.bam
+  name: pRCC1_1394_02_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC1_1394_02_T01_INTRA_SV00064_BP1
+      start: 11966808
+      stop: 11966808
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC1_1394_02_T01_INTRA_SV00064_BP2
+      start: 11970525
+      stop: 11970525
+    -
+      chr: '1'
+      ext: 800
+      name: pRCC1_1394_02_T01_INTRA_SV00064_overview
+      start: 11966808
+      stop: 11970525
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC1_1394_02_T01_INTRA_SV00199_BP1
+      start: 4563560
+      stop: 4563560
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC1_1394_02_T01_INTRA_SV00199_BP2
+      start: 90076098
+      stop: 90076098
+    -
+      chr: '21'
+      ext: 500
+      name: pRCC1_1394_02_T01_INTRA_SV00424_BP1
+      start: 20572624
+      stop: 20572624
+    -
+      chr: '21'
+      ext: 500
+      name: pRCC1_1394_02_T01_INTRA_SV00424_BP2
+      start: 20572745
+      stop: 20572745
+    -
+      chr: '21'
+      ext: 800
+      name: pRCC1_1394_02_T01_INTRA_SV00424_overview
+      start: 20572624
+      stop: 20572745
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7047_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4003_0403.bam
+  name: pRCC2_1851_04_T01
+  snapshots:
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1851_04_T01_INTRA_SV00046_BP1
+      start: 143635206
+      stop: 143635206
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1851_04_T01_INTRA_SV00046_BP2
+      start: 143635295
+      stop: 143635295
+    -
+      chr: '4'
+      ext: 800
+      name: pRCC2_1851_04_T01_INTRA_SV00046_overview
+      start: 143635206
+      stop: 143635295
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1851_04_T01_INTRA_SV00056_BP1
+      start: 43555926
+      stop: 43555926
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1851_04_T01_INTRA_SV00056_BP2
+      start: 43555983
+      stop: 43555983
+    -
+      chr: '5'
+      ext: 800
+      name: pRCC2_1851_04_T01_INTRA_SV00056_overview
+      start: 43555926
+      stop: 43555983
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4029_0402.bam
+  name: pRCC2_1429_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTER_SV00084_BP1
+      start: 26390717
+      stop: 26390818
+    -
+      chr: '15'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTER_SV00084_BP2
+      start: 41096407
+      stop: 41096508
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00281_BP1
+      start: 139537911
+      stop: 139537911
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00281_BP2
+      start: 139563083
+      stop: 139563083
+    -
+      chr: '5'
+      ext: 4195
+      name: pRCC2_1429_03_T01_INTRA_SV00281_overview
+      start: 139537911
+      stop: 139563083
+    -
+      chr: '12'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00519_BP1
+      start: 44320931
+      stop: 44320931
+    -
+      chr: '12'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00519_BP2
+      start: 44321032
+      stop: 44321032
+    -
+      chr: '12'
+      ext: 800
+      name: pRCC2_1429_03_T01_INTRA_SV00519_overview
+      start: 44320931
+      stop: 44321032
+    -
+      chr: '13'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00542_BP1
+      start: 57926219
+      stop: 57926219
+    -
+      chr: '13'
+      ext: 500
+      name: pRCC2_1429_03_T01_INTRA_SV00542_BP2
+      start: 57926319
+      stop: 57926319
+    -
+      chr: '13'
+      ext: 800
+      name: pRCC2_1429_03_T01_INTRA_SV00542_overview
+      start: 57926219
+      stop: 57926319
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0410.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0432.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0408.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0433.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0409.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0407.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4047_0431.bam
+  name: pRCC2_1824_13_T01
+  snapshots:
+    -
+      chr: '18'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTER_SV00170_BP1
+      start: 25836562
+      stop: 25836663
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTER_SV00170_BP2
+      start: 53289773
+      stop: 53289874
+    -
+      chr: X
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00026_BP1
+      start: 15284984
+      stop: 15284984
+    -
+      chr: X
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00026_BP2
+      start: 15285713
+      stop: 15285713
+    -
+      chr: X
+      ext: 800
+      name: pRCC2_1824_13_T01_INTRA_SV00026_overview
+      start: 15284984
+      stop: 15285713
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00052_BP1
+      start: 88267616
+      stop: 88267616
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00052_BP2
+      start: 88267668
+      stop: 88267668
+    -
+      chr: '1'
+      ext: 800
+      name: pRCC2_1824_13_T01_INTRA_SV00052_overview
+      start: 88267616
+      stop: 88267668
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00101_BP1
+      start: 59988890
+      stop: 59988890
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00101_BP2
+      start: 59989219
+      stop: 59989219
+    -
+      chr: '3'
+      ext: 800
+      name: pRCC2_1824_13_T01_INTRA_SV00101_overview
+      start: 59988890
+      stop: 59989219
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00245_BP1
+      start: 125936471
+      stop: 125936471
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00245_BP2
+      start: 125956901
+      stop: 125956901
+    -
+      chr: '11'
+      ext: 3405
+      name: pRCC2_1824_13_T01_INTRA_SV00245_overview
+      start: 125936471
+      stop: 125956901
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00343_BP1
+      start: 39536804
+      stop: 39536804
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1824_13_T01_INTRA_SV00343_BP2
+      start: 53293973
+      stop: 53293973
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0408.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4048_0407.bam
+  name: pRCC2_1782_08_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00065_BP1
+      start: 60525336
+      stop: 60525437
+    -
+      chr: X
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00065_BP2
+      start: 11732432
+      stop: 11732533
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00069_BP1
+      start: 95724667
+      stop: 95724768
+    -
+      chr: '15'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00069_BP2
+      start: 59818165
+      stop: 59818266
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00127_BP1
+      start: 56068239
+      stop: 56068340
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00127_BP2
+      start: 35767250
+      stop: 35767351
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00176_BP1
+      start: 115101585
+      stop: 115101686
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTER_SV00176_BP2
+      start: 59875161
+      stop: 59875262
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00152_BP1
+      start: 56372025
+      stop: 56372025
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00152_BP2
+      start: 56382725
+      stop: 56382725
+    -
+      chr: '2'
+      ext: 1783
+      name: pRCC2_1782_08_T01_INTRA_SV00152_overview
+      start: 56372025
+      stop: 56382725
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00184_BP1
+      start: 238955743
+      stop: 238955743
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00184_BP2
+      start: 238956679
+      stop: 238956679
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC2_1782_08_T01_INTRA_SV00184_overview
+      start: 238955743
+      stop: 238956679
+    -
+      chr: '10'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00361_BP1
+      start: 72827361
+      stop: 72827361
+    -
+      chr: '10'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00361_BP2
+      start: 76155270
+      stop: 76155270
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00376_BP1
+      start: 13071072
+      stop: 13071072
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00376_BP2
+      start: 34866644
+      stop: 34866644
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00536_BP1
+      start: 30154094
+      stop: 30154094
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC2_1782_08_T01_INTRA_SV00536_BP2
+      start: 30155638
+      stop: 30155638
+    -
+      chr: '16'
+      ext: 800
+      name: pRCC2_1782_08_T01_INTRA_SV00536_overview
+      start: 30154094
+      stop: 30155638
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4008_0406.bam
+  name: pRCC1_1689_06_T01
+  snapshots:
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC1_1689_06_T01_INTRA_SV00143_BP1
+      start: 45522732
+      stop: 45522732
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC1_1689_06_T01_INTRA_SV00143_BP2
+      start: 45522790
+      stop: 45522790
+    -
+      chr: '11'
+      ext: 800
+      name: pRCC1_1689_06_T01_INTRA_SV00143_overview
+      start: 45522732
+      stop: 45522790
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0402.bam
+  name: cdRCC_1929_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTER_SV00051_BP1
+      start: 111367616
+      stop: 111367717
+    -
+      chr: '8'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTER_SV00051_BP2
+      start: 30575534
+      stop: 30575635
+    -
+      chr: '9'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTER_SV00216_BP1
+      start: 66469766
+      stop: 66469867
+    -
+      chr: '14'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTER_SV00216_BP2
+      start: 57361999
+      stop: 57362100
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00129_BP1
+      start: 84007932
+      stop: 84007932
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00129_BP2
+      start: 84008548
+      stop: 84008548
+    -
+      chr: '2'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00129_overview
+      start: 84007932
+      stop: 84008548
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00140_BP1
+      start: 142285671
+      stop: 142285671
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00140_BP2
+      start: 142286481
+      stop: 142286481
+    -
+      chr: '2'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00140_overview
+      start: 142285671
+      stop: 142286481
+    -
+      chr: '3'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00180_BP1
+      start: 85106791
+      stop: 85106791
+    -
+      chr: '3'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00180_BP2
+      start: 85106861
+      stop: 85106861
+    -
+      chr: '3'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00180_overview
+      start: 85106791
+      stop: 85106861
+    -
+      chr: '6'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00246_BP1
+      start: 99612358
+      stop: 99612358
+    -
+      chr: '6'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00246_BP2
+      start: 99612736
+      stop: 99612736
+    -
+      chr: '6'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00246_overview
+      start: 99612358
+      stop: 99612736
+    -
+      chr: '6'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00258_BP1
+      start: 170022837
+      stop: 170022837
+    -
+      chr: '6'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00258_BP2
+      start: 170024491
+      stop: 170024491
+    -
+      chr: '6'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00258_overview
+      start: 170022837
+      stop: 170024491
+    -
+      chr: '7'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00274_BP1
+      start: 46898860
+      stop: 46898860
+    -
+      chr: '7'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00274_BP2
+      start: 46899947
+      stop: 46899947
+    -
+      chr: '7'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00274_overview
+      start: 46898860
+      stop: 46899947
+    -
+      chr: '7'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00283_BP1
+      start: 96764953
+      stop: 96764953
+    -
+      chr: '7'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00283_BP2
+      start: 96765036
+      stop: 96765036
+    -
+      chr: '7'
+      ext: 800
+      name: cdRCC_1929_03_T01_INTRA_SV00283_overview
+      start: 96764953
+      stop: 96765036
+    -
+      chr: '14'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00452_BP1
+      start: 73686287
+      stop: 73686287
+    -
+      chr: '14'
+      ext: 500
+      name: cdRCC_1929_03_T01_INTRA_SV00452_BP2
+      start: 73703978
+      stop: 73703978
+    -
+      chr: '14'
+      ext: 2948
+      name: cdRCC_1929_03_T01_INTRA_SV00452_overview
+      start: 73686287
+      stop: 73703978
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4038_0402.bam
+  name: pRCC2_1479_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00022_BP1
+      start: 27664676
+      stop: 27664777
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00022_BP2
+      start: 73855866
+      stop: 73855967
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00057_BP1
+      start: 70415476
+      stop: 70415577
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00057_BP2
+      start: 36196782
+      stop: 36196883
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00080_BP1
+      start: 13695582
+      stop: 13695683
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00080_BP2
+      start: 36199094
+      stop: 36199195
+    -
+      chr: '8'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00143_BP1
+      start: 123990905
+      stop: 123991006
+    -
+      chr: '12'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00143_BP2
+      start: 51433376
+      stop: 51433477
+    -
+      chr: '8'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00144_BP1
+      start: 124009169
+      stop: 124009270
+    -
+      chr: '12'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTER_SV00144_BP2
+      start: 51407210
+      stop: 51407311
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00139_BP1
+      start: 58112733
+      stop: 58112733
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00139_BP2
+      start: 58113590
+      stop: 58113590
+    -
+      chr: '5'
+      ext: 800
+      name: pRCC2_1479_03_T01_INTRA_SV00139_overview
+      start: 58112733
+      stop: 58113590
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00146_BP1
+      start: 131695895
+      stop: 131695895
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00146_BP2
+      start: 139694448
+      stop: 139694448
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00149_BP1
+      start: 131700575
+      stop: 131700575
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00149_BP2
+      start: 139653731
+      stop: 139653731
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00416_BP1
+      start: 14173882
+      stop: 14173882
+    -
+      chr: '19'
+      ext: 500
+      name: pRCC2_1479_03_T01_INTRA_SV00416_BP2
+      start: 14179450
+      stop: 14179450
+    -
+      chr: '19'
+      ext: 928
+      name: pRCC2_1479_03_T01_INTRA_SV00416_overview
+      start: 14173882
+      stop: 14179450
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4026_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4026_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4026_0402.bam
+  name: pRCC2_1410_02_T01
+  snapshots:
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC2_1410_02_T01_INTER_SV00099_BP1
+      start: 41659135
+      stop: 41659236
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1410_02_T01_INTER_SV00099_BP2
+      start: 65267726
+      stop: 65267827
+    -
+      chr: '6'
+      ext: 500
+      name: pRCC2_1410_02_T01_INTER_SV00102_BP1
+      start: 41659136
+      stop: 41659237
+    -
+      chr: '11'
+      ext: 500
+      name: pRCC2_1410_02_T01_INTER_SV00102_BP2
+      start: 65267741
+      stop: 65267842
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1410_02_T01_INTRA_SV00093_BP1
+      start: 45537534
+      stop: 45537534
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1410_02_T01_INTRA_SV00093_BP2
+      start: 45538093
+      stop: 45538093
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC2_1410_02_T01_INTRA_SV00093_overview
+      start: 45537534
+      stop: 45538093
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7048_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4015_0401.bam
+  name: pRCC1_1662_01_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC1_1662_01_T01_INTRA_SV00036_BP1
+      start: 89543851
+      stop: 89543851
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC1_1662_01_T01_INTRA_SV00036_BP2
+      start: 89544029
+      stop: 89544029
+    -
+      chr: '3'
+      ext: 800
+      name: pRCC1_1662_01_T01_INTRA_SV00036_overview
+      start: 89543851
+      stop: 89544029
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC1_1662_01_T01_INTRA_SV00130_BP1
+      start: 62895857
+      stop: 62895857
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC1_1662_01_T01_INTRA_SV00130_BP2
+      start: 62895915
+      stop: 62895915
+    -
+      chr: '16'
+      ext: 800
+      name: pRCC1_1662_01_T01_INTRA_SV00130_overview
+      start: 62895857
+      stop: 62895915
+    -
+      chr: '21'
+      ext: 500
+      name: pRCC1_1662_01_T01_INTRA_SV00165_BP1
+      start: 15469344
+      stop: 15469344
+    -
+      chr: '21'
+      ext: 500
+      name: pRCC1_1662_01_T01_INTRA_SV00165_BP2
+      start: 15469461
+      stop: 15469461
+    -
+      chr: '21'
+      ext: 800
+      name: pRCC1_1662_01_T01_INTRA_SV00165_overview
+      start: 15469344
+      stop: 15469461
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4049_0402.bam
+  name: mixRCC_2028_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00045_BP1
+      start: 77910035
+      stop: 77910035
+    -
+      chr: '1'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00045_BP2
+      start: 247339526
+      stop: 247339526
+    -
+      chr: '3'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00080_BP1
+      start: 74033318
+      stop: 74033318
+    -
+      chr: '3'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00080_BP2
+      start: 74063228
+      stop: 74063228
+    -
+      chr: '3'
+      ext: 4985
+      name: mixRCC_2028_03_T01_INTRA_SV00080_overview
+      start: 74033318
+      stop: 74063228
+    -
+      chr: '10'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00194_BP1
+      start: 120295225
+      stop: 120295225
+    -
+      chr: '10'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00194_BP2
+      start: 120295280
+      stop: 120295280
+    -
+      chr: '10'
+      ext: 800
+      name: mixRCC_2028_03_T01_INTRA_SV00194_overview
+      start: 120295225
+      stop: 120295280
+    -
+      chr: '14'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00234_BP1
+      start: 89149431
+      stop: 89149431
+    -
+      chr: '14'
+      ext: 500
+      name: mixRCC_2028_03_T01_INTRA_SV00234_BP2
+      start: 89150700
+      stop: 89150700
+    -
+      chr: '14'
+      ext: 800
+      name: mixRCC_2028_03_T01_INTRA_SV00234_overview
+      start: 89149431
+      stop: 89150700
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7006_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4017_0401.bam
+  name: pRCC1_1654_01_T01
+  snapshots:
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC1_1654_01_T01_INTRA_SV00069_BP1
+      start: 21821396
+      stop: 21821396
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC1_1654_01_T01_INTRA_SV00069_BP2
+      start: 21821804
+      stop: 21821804
+    -
+      chr: '7'
+      ext: 800
+      name: pRCC1_1654_01_T01_INTRA_SV00069_overview
+      start: 21821396
+      stop: 21821804
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0431.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0407.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0404.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0406.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0408.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0405.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0402.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0144_0432.bam
+  name: cdRCC_1697_10_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 500
+      name: cdRCC_1697_10_T01_INTER_SV00057_BP1
+      start: 147305459
+      stop: 147305560
+    -
+      chr: '11'
+      ext: 500
+      name: cdRCC_1697_10_T01_INTER_SV00057_BP2
+      start: 42008436
+      stop: 42008537
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1697_10_T01_INTRA_SV00083_BP1
+      start: 197186793
+      stop: 197186793
+    -
+      chr: '2'
+      ext: 500
+      name: cdRCC_1697_10_T01_INTRA_SV00083_BP2
+      start: 197186848
+      stop: 197186848
+    -
+      chr: '2'
+      ext: 800
+      name: cdRCC_1697_10_T01_INTRA_SV00083_overview
+      start: 197186793
+      stop: 197186848
+    -
+      chr: '6'
+      ext: 500
+      name: cdRCC_1697_10_T01_INTRA_SV00154_BP1
+      start: 146930799
+      stop: 146930799
+    -
+      chr: '6'
+      ext: 500
+      name: cdRCC_1697_10_T01_INTRA_SV00154_BP2
+      start: 146931842
+      stop: 146931842
+    -
+      chr: '6'
+      ext: 800
+      name: cdRCC_1697_10_T01_INTRA_SV00154_overview
+      start: 146930799
+      stop: 146931842
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7030_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4024_0401.bam
+  name: pRCC2_1396_01_T01
+  snapshots:
+    -
+      chr: '15'
+      ext: 500
+      name: pRCC2_1396_01_T01_INTRA_SV00107_BP1
+      start: 38668503
+      stop: 38668503
+    -
+      chr: '15'
+      ext: 500
+      name: pRCC2_1396_01_T01_INTRA_SV00107_BP2
+      start: 38668763
+      stop: 38668763
+    -
+      chr: '15'
+      ext: 800
+      name: pRCC2_1396_01_T01_INTRA_SV00107_overview
+      start: 38668503
+      stop: 38668763
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4021_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4021_0401.bam
+  name: pRCC2_1298_01_T01
+  snapshots:
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTER_SV00075_BP1
+      start: 1295504
+      stop: 1295605
+    -
+      chr: '22'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTER_SV00075_BP2
+      start: 49610835
+      stop: 49610936
+    -
+      chr: X
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00069_BP1
+      start: 108019339
+      stop: 108019339
+    -
+      chr: X
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00069_BP2
+      start: 108023868
+      stop: 108023868
+    -
+      chr: X
+      ext: 800
+      name: pRCC2_1298_01_T01_INTRA_SV00069_overview
+      start: 108019339
+      stop: 108023868
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00120_BP1
+      start: 145474998
+      stop: 145474998
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00120_BP2
+      start: 145475180
+      stop: 145475180
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC2_1298_01_T01_INTRA_SV00120_overview
+      start: 145474998
+      stop: 145475180
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00201_BP1
+      start: 67612747
+      stop: 67612747
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00201_BP2
+      start: 67614017
+      stop: 67614017
+    -
+      chr: '7'
+      ext: 800
+      name: pRCC2_1298_01_T01_INTRA_SV00201_overview
+      start: 67612747
+      stop: 67614017
+    -
+      chr: '18'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00379_BP1
+      start: 24041512
+      stop: 24041512
+    -
+      chr: '18'
+      ext: 500
+      name: pRCC2_1298_01_T01_INTRA_SV00379_BP2
+      start: 24041627
+      stop: 24041627
+    -
+      chr: '18'
+      ext: 800
+      name: pRCC2_1298_01_T01_INTRA_SV00379_overview
+      start: 24041512
+      stop: 24041627
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4018_0402.bam
+  name: pRCC2_1552_03_T01
+  snapshots:
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTER_SV00108_BP1
+      start: 59928372
+      stop: 59928473
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTER_SV00108_BP2
+      start: 102541940
+      stop: 102542041
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTER_SV00119_BP1
+      start: 68296619
+      stop: 68296720
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTER_SV00119_BP2
+      start: 98680638
+      stop: 98680739
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00056_BP1
+      start: 2791159
+      stop: 2791159
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00056_BP2
+      start: 2791422
+      stop: 2791422
+    -
+      chr: '1'
+      ext: 800
+      name: pRCC2_1552_03_T01_INTRA_SV00056_overview
+      start: 2791159
+      stop: 2791422
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00123_BP1
+      start: 139021540
+      stop: 139021540
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00123_BP2
+      start: 139021633
+      stop: 139021633
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC2_1552_03_T01_INTRA_SV00123_overview
+      start: 139021540
+      stop: 139021633
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00163_BP1
+      start: 195891863
+      stop: 195891863
+    -
+      chr: '3'
+      ext: 500
+      name: pRCC2_1552_03_T01_INTRA_SV00163_BP2
+      start: 195892521
+      stop: 195892521
+    -
+      chr: '3'
+      ext: 800
+      name: pRCC2_1552_03_T01_INTRA_SV00163_overview
+      start: 195891863
+      stop: 195892521
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4013_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4013_0401.bam
+  name: pRCC1_1708_01_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC1_1708_01_T01_INTRA_SV00059_BP1
+      start: 155078695
+      stop: 155078695
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC1_1708_01_T01_INTRA_SV00059_BP2
+      start: 155078809
+      stop: 155078809
+    -
+      chr: '1'
+      ext: 800
+      name: pRCC1_1708_01_T01_INTRA_SV00059_overview
+      start: 155078695
+      stop: 155078809
+    -
+      chr: '9'
+      ext: 500
+      name: pRCC1_1708_01_T01_INTRA_SV00243_BP1
+      start: 33133535
+      stop: 33133535
+    -
+      chr: '9'
+      ext: 500
+      name: pRCC1_1708_01_T01_INTRA_SV00243_BP2
+      start: 33133670
+      stop: 33133670
+    -
+      chr: '9'
+      ext: 800
+      name: pRCC1_1708_01_T01_INTRA_SV00243_overview
+      start: 33133535
+      stop: 33133670
+    -
+      chr: '14'
+      ext: 500
+      name: pRCC1_1708_01_T01_INTRA_SV00313_BP1
+      start: 57932147
+      stop: 57932147
+    -
+      chr: '14'
+      ext: 500
+      name: pRCC1_1708_01_T01_INTRA_SV00313_BP2
+      start: 57932280
+      stop: 57932280
+    -
+      chr: '14'
+      ext: 800
+      name: pRCC1_1708_01_T01_INTRA_SV00313_overview
+      start: 57932147
+      stop: 57932280
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4001_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4001_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4001_0402.bam
+  name: pRCC2_1799_02_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00062_BP1
+      start: 87539818
+      stop: 87539818
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00062_BP2
+      start: 112306428
+      stop: 112306428
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00094_BP1
+      start: 76130657
+      stop: 76130657
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00094_BP2
+      start: 76130735
+      stop: 76130735
+    -
+      chr: '4'
+      ext: 800
+      name: pRCC2_1799_02_T01_INTRA_SV00094_overview
+      start: 76130657
+      stop: 76130735
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00099_BP1
+      start: 89719124
+      stop: 89719124
+    -
+      chr: '4'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00099_BP2
+      start: 89719276
+      stop: 89719276
+    -
+      chr: '4'
+      ext: 800
+      name: pRCC2_1799_02_T01_INTRA_SV00099_overview
+      start: 89719124
+      stop: 89719276
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00208_BP1
+      start: 19542994
+      stop: 19542994
+    -
+      chr: '16'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00208_BP2
+      start: 19543085
+      stop: 19543085
+    -
+      chr: '16'
+      ext: 800
+      name: pRCC2_1799_02_T01_INTRA_SV00208_overview
+      start: 19542994
+      stop: 19543085
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00225_BP1
+      start: 64039926
+      stop: 64039926
+    -
+      chr: '17'
+      ext: 500
+      name: pRCC2_1799_02_T01_INTRA_SV00225_BP2
+      start: 64039979
+      stop: 64039979
+    -
+      chr: '17'
+      ext: 800
+      name: pRCC2_1799_02_T01_INTRA_SV00225_overview
+      start: 64039926
+      stop: 64039979
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7054_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4014_0401.bam
+  name: pRCC1_1735_01_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC1_1735_01_T01_INTRA_SV00036_BP1
+      start: 70203702
+      stop: 70203702
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC1_1735_01_T01_INTRA_SV00036_BP2
+      start: 70203957
+      stop: 70203957
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC1_1735_01_T01_INTRA_SV00036_overview
+      start: 70203702
+      stop: 70203957
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1735_01_T01_INTRA_SV00065_BP1
+      start: 26585725
+      stop: 26585725
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1735_01_T01_INTRA_SV00065_BP2
+      start: 26585824
+      stop: 26585824
+    -
+      chr: '5'
+      ext: 800
+      name: pRCC1_1735_01_T01_INTRA_SV00065_overview
+      start: 26585725
+      stop: 26585824
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4046_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4046_0401.bam
+  name: pRCC1_1546_01_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC1_1546_01_T01_INTRA_SV00054_BP1
+      start: 42513578
+      stop: 42513578
+    -
+      chr: '1'
+      ext: 500
+      name: pRCC1_1546_01_T01_INTRA_SV00054_BP2
+      start: 214283682
+      stop: 214283682
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1546_01_T01_INTRA_SV00157_BP1
+      start: 26793169
+      stop: 26793169
+    -
+      chr: '5'
+      ext: 500
+      name: pRCC1_1546_01_T01_INTRA_SV00157_BP2
+      start: 26793748
+      stop: 26793748
+    -
+      chr: '5'
+      ext: 800
+      name: pRCC1_1546_01_T01_INTRA_SV00157_overview
+      start: 26793169
+      stop: 26793748
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4036_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4036_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4036_0402.bam
+  name: pRCC1_1550_02_T01
+  snapshots:
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC1_1550_02_T01_INTRA_SV00075_BP1
+      start: 20770832
+      stop: 20770832
+    -
+      chr: '2'
+      ext: 500
+      name: pRCC1_1550_02_T01_INTRA_SV00075_BP2
+      start: 20770970
+      stop: 20770970
+    -
+      chr: '2'
+      ext: 800
+      name: pRCC1_1550_02_T01_INTRA_SV00075_overview
+      start: 20770832
+      stop: 20770970
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC1_1550_02_T01_INTRA_SV00194_BP1
+      start: 89942253
+      stop: 89942253
+    -
+      chr: '7'
+      ext: 500
+      name: pRCC1_1550_02_T01_INTRA_SV00194_BP2
+      start: 89942523
+      stop: 89942523
+    -
+      chr: '7'
+      ext: 800
+      name: pRCC1_1550_02_T01_INTRA_SV00194_overview
+      start: 89942253
+      stop: 89942523
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4022_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4022_0401.bam
+  name: mixRCC_1336_01_T01
+  snapshots:
+    -
+      chr: '4'
+      ext: 500
+      name: mixRCC_1336_01_T01_INTRA_SV00110_BP1
+      start: 25413303
+      stop: 25413303
+    -
+      chr: '4'
+      ext: 500
+      name: mixRCC_1336_01_T01_INTRA_SV00110_BP2
+      start: 25413395
+      stop: 25413395
+    -
+      chr: '4'
+      ext: 800
+      name: mixRCC_1336_01_T01_INTRA_SV00110_overview
+      start: 25413303
+      stop: 25413395
+    -
+      chr: '8'
+      ext: 500
+      name: mixRCC_1336_01_T01_INTRA_SV00184_BP1
+      start: 9194979
+      stop: 9194979
+    -
+      chr: '8'
+      ext: 500
+      name: mixRCC_1336_01_T01_INTRA_SV00184_BP2
+      start: 9195087
+      stop: 9195087
+    -
+      chr: '8'
+      ext: 800
+      name: mixRCC_1336_01_T01_INTRA_SV00184_overview
+      start: 9194979
+      stop: 9195087

@@ -1,15 +1,64 @@
 """Main module."""
 import os
+import logging
+from pathlib import Path, PureWindowsPath
+import re
+
+def update_dir(path, target_os="Mac", orig_prefix=None, new_prefix=None):
+    """Update the file path
+    
+    Change T drive path to the right mounting path under the OS system. E.g.:
+    CCAD: /DCEG/Scimentis/DNM/data/BATCH2_b38
+    Mac: /Volumes/ifs/DCEG/Scimentis/DNM/data/BATCH2_b38
+    Windows: T:\DCEG\Scimentis\DNM\data\BATCH2_b38
+
+    BioWulf: /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM
+    Mac: /Volumes/DCEG_pRCC_SV/EAGLE_Kidney_BAM
+    Args:
+        path ([type]): [description]
+        to (str, optional): [description]. Defaults to "Mac". The other optionis "Windows".
+
+    """
+    # parts = list(Path(path).parts)
+
+    # rv = None
+
+    # if target_os == "Mac": 
+    #     parts[0]='/Volumes/ifs/' + parts[0]
+    #     rv = str(Path(*parts))
+    # elif target_os == "Windows":
+    #     parts[0]='T:\\' + parts[0]
+    #     rv= PureWindowsPath(Path(*parts))
+    # else:
+    #     return(path) # no chagne;
+    if target_os is None:
+        return(path) #no change
+
+    new_path = re.sub(orig_prefix, new_prefix, path)
+    rv = None
+    if target_os == "Mac": 
+        rv= str(Path(new_path))
+    else: 
+        rv=PureWindowsPath(Path(new_path))
+
+    return str(rv)
+    
 
 def subprocess_cmd(command):
     '''
     Runs a terminal command with stdout piping enabled
     https://github.com/stevekm/IGV-snapshot-automator/blob/master/make_IGV_snapshots.py
     '''
+    
+    logging.info("Command: "+command+"\n")
     import subprocess as sp
-    process = sp.Popen(command,stdout=sp.PIPE, shell=True)
-    proc_stdout = process.communicate()[0].strip()
-    print(proc_stdout)
+    import shlex
+
+    process = sp.run(shlex.split(command),stdout=sp.PIPE, stderr=sp.STDOUT,shell=False)
+    # proc_stdout = process.communicate()[0].decode('ascii')
+
+    logging.info(process.stdout.decode('ascii'))
+    
 
 def mkdir_p(path, return_path=False):
     '''
@@ -57,7 +106,7 @@ class IGV_Snapshot_Maker:
     # ext=100 
     # output_dir = "IGV_Snapshots"
 
-    def __init__(self, refgenome="hg19", ext=100, output_dir="IGV_Snapshots", igv_cmd="igv"):
+    def __init__(self, refgenome="hg19", ext=100, output_dir="IGV_Snapshots", igv_cmd="igv", config=None):
         """Constructur
 
         Args:
@@ -66,6 +115,12 @@ class IGV_Snapshot_Maker:
             output_dir (str, optional): output directory. Defaults to "IGV_Snapshots".
             igv_cmd (str, optional): the command to run IGV. Defaults to "/Users/zhuw10/opt/miniconda3/bin/igv".
         """
+        self.track_setting =  "sort base\ncollapse\n"
+
+        if config is not None:
+            # Note config has lower priority here so the only setting passed is track_setting for the time being.
+            self.load_config(config);
+
         self.refgenome = refgenome
         self.ext = ext
         self.output_dir = output_dir
@@ -74,14 +129,20 @@ class IGV_Snapshot_Maker:
         self.xvfb_cmd = 'xvfb-run --auto-servernum --server-args="-screen 0 3200x2400x24" %s -b ' % igv_cmd
         self.reset_batch()
 
+
+    def load_config(self, config):
+        for i in config:
+            setattr(self, i, config[i])
+
     def reset_batch(self):
         self.batch="""\
 new
 genome %s
+maxPanelHeight 2000
 """ % (self.refgenome)
         
 
-    def load_bams(self, bam_files):
+    def load_bams(self, bam_files, target_os=None, orig_prefix=None, new_prefix=None):
         """Add bam files
 
         Append load bam file statements to the IGV batch script 
@@ -90,53 +151,51 @@ genome %s
             bam_files (list): list of bam file names
 
         """
-        out = ["load " + f for f in bam_files]
-        self.batch += "\n".join(out) + "\n"
+        out = ["load " + update_dir(f, target_os=target_os, orig_prefix=orig_prefix, new_prefix=new_prefix) for f in bam_files]
 
-    def generate_batch_file(self, group_name, name, chr, start, stop):
-        """Generate snapshot script {name}.bat and {name}.png under the folder group_name
+        self.batch += "\n".join(out) + "\n" 
+        self.batch += self.track_setting + "\n" # track setting has no effect before bam loadings
 
-        Add "go to the regions and take the snapshot" to the batch script save it to the 
-        folder {group_name}. Create the folder if it does not exist.
-
-        Save the batch script to the folder with the name {group_name}/{group_name}_{name}.bat
-
-        snapshotDirectory IGV_Snapshots
-        goto chr1:35656750-35657150
-        sort base
-        collapse
-        snapshot 1_35656950_T_A.png
-
-        Args:
-            group_name (str): group name as folder
-            name (str): name of the variant
-            chr (str): chromosome
-            start (int): start position (0-based)
-            stop (int): stop position (0-based)
-
-        Returns: 
-            str: the batch file name
-
-        """
+    def create_batch_file(self, group_name, name): 
         dir_name = os.path.abspath(os.path.join(self.output_dir, self.fix_name(group_name)) )
         mkdir_p(dir_name)
 
+        # self.dir_name = dir_name
+
         bat_name = os.path.join(dir_name, self.fix_name(name) + ".bat" )
-        png_name = self.fix_name(name) + ".png"
-
-        # Write script to the file
-        print("Write to file: %s\n" % bat_name)
-        with open(bat_name, "w") as bat:
-            bat.write(self.batch)
-            bat.write("snapshotDirectory %s\n" % dir_name)
-            bat.write(self.get_goto(chr,start, stop) + "\n")
-            bat.write("sort base\ncollapse\nsnapshot %s\n" % (png_name))
-            bat.write("exit\n")
-
+        self.bat = open(bat_name, "w")
+        self.bat.write(self.batch)
+        
+        self.bat.write("snapshotDirectory %s\n" % dir_name)
         return(str(bat_name))
 
-        # Run the script to generate the png file at the same folder
-        # xvfb-run --auto-servernum --server-args="-screen 0 3200x2400x24" igv -b new.sc
+    def close_batch_file(self, exit=True):
+        if exit: 
+            self.bat.write("exit\n")
+
+        self.bat.close()
+
+    def goto(self, name, chr, start, stop, snapshot=True, ext=None, ROI_only=False):
+        
+        # add region of interest: region chr4 113282405 113312235 SV1
+
+        chr2=chr
+        x = re.search('^chr', chr)
+        if x is None:
+            chr2='chr'+chr # add prefix chr as region not shown otherwise
+
+        self.bat.write("region %s %s %s %s\n" % (chr2, start, stop, name))
+
+        if ROI_only:
+            return
+        
+        self.bat.write(self.get_goto(chr,start, stop, ext) + "\n")
+        # self.bat.write(self.track_setting)
+
+        if snapshot:
+            png_name = self.fix_name(name) + ".png"
+            self.bat.write("snapshot %s\n" % (png_name))
+            
 
     def set_xvfb_cmd(self, xvfb_cmd ):
         """Set up the xvfb command to run IGV
@@ -163,7 +222,7 @@ genome %s
 
 
 
-    def get_goto(self, chr, start, stop): 
+    def get_goto(self, chr, start, stop, ext=None): 
         """ goto chr1:35656750-35657150
 
         The target regions is cenetered on start+1 (1-based), [start+1-ext, start+1+ext]. stop is not used for the time being
@@ -174,10 +233,14 @@ genome %s
             stop (int): stop position
 
         Returns:
-            str: goto chr1:35656750-35657150
+            str: goto chr1:356q56750-35657150
 
         """
-        rv = "goto %s:%d-%d" % (chr, start+1-self.ext, stop+1+self.ext)
+        
+        if ext is None:
+            ext = self.ext
+
+        rv = "goto %s:%d-%d" % (chr, start-ext, stop+ext)
         return(rv)
 
 
