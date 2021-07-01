@@ -1,5 +1,5 @@
 Welcome to IGV_snapshot_maker's documentation!
-======================================
+===============================================
 
 .. toctree::
    :maxdepth: 2
