@@ -7,6 +7,7 @@ Welcome to IGV_snapshot_maker's documentation!
 
    readme
    installation
+   getstarted
    usage
    modules
    contributing

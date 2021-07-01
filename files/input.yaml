@@ -1,0 +1,33 @@
+---
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0421.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0401.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0403.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK0149_0402.bam
+  name: cdRCC_1929_03_T01
+  snapshots:
+    -
+      chr: '1'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00035_BP1
+      start: 104423883
+      stop: 104423984
+    -
+      chr: '8'
+      ext: 200
+      name: cdRCC_1929_03_T01_INTER_SV00035_BP2
+      start: 33776273
+      stop: 33776374
+-
+  bam_files:
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK7006_2000.bam
+    - /data/DCEG_pRCC_SV/EAGLE_Kidney_BAM/GPK4017_0401.bam
+  name: pRCC1_1654_01_T01
+  snapshots:
+    -
+      chr: '6'
+      ext: 200
+      name: pRCC1_1654_01_T01_INTRA_SV00060_BP1
+      start: 136376293
+      stop: 136376293
