@@ -190,7 +190,7 @@ maxPanelHeight 2000
             return
         
         self.bat.write(self.get_goto(chr,start, stop, ext) + "\n")
-        # self.bat.write(self.track_setting)
+        self.bat.write(self.track_setting)
 
         if snapshot:
             png_name = self.fix_name(name) + ".png"
